@@ -1,1 +1,1 @@
-__all__ = ["graphs", "paths_and_constants.py", "vis"]
+__all__ = ["graphs", "paths_and_constants.py", "vis", "numerics", "figures"]
