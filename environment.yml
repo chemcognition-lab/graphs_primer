@@ -22,3 +22,5 @@ dependencies:
   - nodejs
   - dataclasses-json
   - rdkit
+  - pip:
+    - pyfonts
