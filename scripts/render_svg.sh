@@ -13,9 +13,7 @@ then
     echo "On macOS (using Homebrew): brew install imagemagick"
     exit 1
 fi
-
-trimbox=$(magick in.jpg -fuzz 5% -format "%@" info:)
-
+:wq
 find "$input_dir" -maxdepth 1 -name "*.svg"  -print0 | while IFS= read -r -d $'\0' svg_file; do
   filename=$(basename "$svg_file" .svg)
   png_file="$output_dir/$filename.png"
