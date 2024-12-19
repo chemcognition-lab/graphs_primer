@@ -1,0 +1,24 @@
+name: graphs
+channels:
+  - defaults
+  - conda-forge
+  - rdkit
+dependencies:
+  - python=3.13
+  - isort
+  - black
+  - codespell
+  - numpy
+  - matplotlib
+  - networkx
+  - seaborn
+  - pandas
+  - scipy
+  - tqdm
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - jupyterlab_widgets
+  - nodejs
+  - dataclasses-json
+  - rdkit
