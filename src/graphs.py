@@ -1,5 +1,6 @@
 import dataclasses
 import json
+from pathlib import Path
 
 import dataclasses_json
 import networkx as nx
@@ -31,15 +32,15 @@ class GraphSpec:
 
 
 def save_as_json(g: nx.Graph, spec: GraphSpec, filename: str) -> None:
-    with open(f"{filename}.json", "w") as f:
-        data = nx.read_write.json_graph.node_link_data(g, edges="edges")
+    with Path(filename).open("w") as f:
+        data = nx.readwrite.json_graph.node_link_data(g)
         data["spec"] = spec.to_dict()
         json.dump(data, f)
 
 
 def load_from_json(g, filename) -> tuple[nx.Graph, GraphSpec]:
-    with open(f"{filename}.json", "r") as f:
+    with Path(filename).open("r") as f:
         data = json.load(f)
         spec = GraphSpec.from_dict(data.pop("spec"))
-        g = nx.read_write.json_graph.node_link_graph(data, edges="edges")
+        g = nx.readwrite.json_graph.node_link_graph(data)
     return g, spec

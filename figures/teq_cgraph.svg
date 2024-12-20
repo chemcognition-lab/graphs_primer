@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1004.4pt" height="460.619375pt" viewBox="0 0 1004.4 460.619375" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-12-17T03:56:25.372853</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460.619375 
+L 1004.4 460.619375 
+L 1004.4 0 
+L 0 0 
+L 0 460.619375 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 122.518084 422.132102 
+Q 156.334495 422.132102 184.560737 422.132102 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #e5eff9; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 172.560737 416.132102 
+L 184.560737 422.132102 
+L 172.560737 428.132102 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #e5eff9; stroke: #e5eff9; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 260.865191 422.132102 
+Q 294.681603 422.132102 322.907844 422.132102 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #d3e4f3; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 310.907844 416.132102 
+L 322.907844 422.132102 
+L 310.907844 428.132102 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #d3e4f3; stroke: #d3e4f3; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 381.621258 391.562871 
+Q 433.026741 303.12333 481.623016 219.516836 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #bfd8ed; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 470.405327 226.876418 
+L 481.623016 219.516836 
+L 480.780068 232.906737 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #bfd8ed; stroke: #bfd8ed; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 394.520581 404.544898 
+Q 571.37169 303.124907 743.373456 204.485901 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #a1cbe2; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 729.978869 205.250773 
+L 743.373456 204.485901 
+L 735.948602 215.660494 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #a1cbe2; stroke: #a1cbe2; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 528.104195 160.04974 
+Q 571.37351 119.851151 610.547326 83.457413 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #7db8da; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 597.67203 87.229251 
+L 610.547326 83.457413 
+L 605.839618 96.020752 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #7db8da; stroke: #7db8da; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 528.104195 208.181407 
+Q 571.37351 248.379996 610.547326 284.773734 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #5ca4d0; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 605.839618 272.210395 
+L 610.547326 284.773734 
+L 597.67203 281.001896 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #5ca4d0; stroke: #5ca4d0; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 537.559406 184.115573 
+Q 640.54908 184.115573 737.948584 184.115573 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #3f8fc5; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 725.948584 178.115573 
+L 737.948584 184.115573 
+L 725.948584 190.115573 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #3f8fc5; stroke: #3f8fc5; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 666.451303 79.652481 
+Q 709.720617 119.85107 748.894433 156.244808 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #2676b8; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 744.186726 143.681469 
+L 748.894433 156.244808 
+L 736.019137 152.472971 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #2676b8; stroke: #2676b8; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 666.451303 288.578666 
+Q 709.720617 248.380077 748.894433 211.986338 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #135fa7; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 736.019137 215.758176 
+L 748.894433 211.986338 
+L 744.186726 224.549678 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #135fa7; stroke: #135fa7; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 814.253621 184.115573 
+Q 848.070033 184.115573 876.296274 184.115573 
+" clip-path="url(#pd6647a286d)" style="fill: none; stroke: #08488e; stroke-width: 5; stroke-linecap: round"/>
+    <path d="M 864.296274 178.115573 
+L 876.296274 184.115573 
+L 864.296274 190.115573 
+z
+" clip-path="url(#pd6647a286d)" style="fill: #08488e; stroke: #08488e; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="C0_0_1341cc06cf" d="M 0 35.355339 
+C 9.376346 35.355339 18.369923 31.630078 25 25 
+C 31.630078 18.369923 35.355339 9.376346 35.355339 -0 
+C 35.355339 -9.376346 31.630078 -18.369923 25 -25 
+C 18.369923 -31.630078 9.376346 -35.355339 0 -35.355339 
+C -9.376346 -35.355339 -18.369923 -31.630078 -25 -25 
+C -31.630078 -18.369923 -35.355339 -9.376346 -35.355339 0 
+C -35.355339 9.376346 -31.630078 18.369923 -25 25 
+C -18.369923 31.630078 -9.376346 35.355339 0 35.355339 
+z
+"/>
+    </defs>
+    <g clip-path="url(#pd6647a286d)">
+     <use xlink:href="#C0_0_1341cc06cf" x="87.158678" y="422.132102" style="fill: #fff8c1; stroke: #fff8c1"/>
+    </g>
+    <g clip-path="url(#pd6647a286d)">
+     <use xlink:href="#C0_0_1341cc06cf" x="225.505785" y="422.132102" style="fill: #fee89b; stroke: #fee89b"/>
+    </g>
+    <g clip-path="url(#pd6647a286d)">
+     <use xlink:href="#C0_0_1341cc06cf" x="363.852893" y="422.132102" style="fill: #fece65; stroke: #fece65"/>
+    </g>
+    <g clip-path="url(#pd6647a286d)">
+     <use xlink:href="#C0_0_1341cc06cf" x="502.2" y="184.115573" style="fill: #fead3a; stroke: #fead3a"/>
+    </g>
+    <g clip-path="url(#pd6647a286d)">
+     <use xlink:href="#C0_0_1341cc06cf" x="640.547107" y="55.586648" style="fill: #f6861f; stroke: #f6861f"/>
+    </g>
+    <g clip-path="url(#pd6647a286d)">
+     <use xlink:href="#C0_0_1341cc06cf" x="640.547107" y="312.644499" style="fill: #e1640e; stroke: #e1640e"/>
+    </g>
+    <g clip-path="url(#pd6647a286d)">
+     <use xlink:href="#C0_0_1341cc06cf" x="778.894215" y="184.115573" style="fill: #c04602; stroke: #c04602"/>
+    </g>
+    <g clip-path="url(#pd6647a286d)">
+     <use xlink:href="#C0_0_1341cc06cf" x="917.241322" y="184.115573" style="fill: #933204; stroke: #933204"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <!-- Tequila Production Process -->
+    <g transform="translate(390.184688 11.099375) scale(0.14 -0.14)">
+     <defs>
+      <path id="FiraCode-Regular-54" d="M 2242 4030 
+L 2242 0 
+L 1674 0 
+L 1674 4030 
+L 263 4030 
+L 263 4519 
+L 3673 4519 
+L 3614 4030 
+L 2242 4030 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-65" d="M 1093 1533 
+Q 1116 932 1409 658 
+Q 1703 384 2104 384 
+Q 2370 384 2583 463 
+Q 2796 542 3026 696 
+L 3285 331 
+Q 3046 141 2734 33 
+Q 2422 -75 2097 -75 
+Q 1592 -75 1239 151 
+Q 886 377 700 782 
+Q 515 1188 515 1723 
+Q 515 2248 700 2655 
+Q 886 3062 1226 3295 
+Q 1566 3528 2025 3528 
+Q 2678 3528 3054 3075 
+Q 3430 2622 3430 1835 
+Q 3430 1746 3425 1667 
+Q 3420 1589 3417 1533 
+L 1093 1533 
+z
+M 2032 3075 
+Q 1648 3075 1388 2802 
+Q 1129 2530 1096 1959 
+L 2898 1959 
+Q 2888 2514 2655 2794 
+Q 2422 3075 2032 3075 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-71" d="M 1799 3528 
+Q 2110 3528 2348 3413 
+Q 2586 3298 2764 3079 
+L 2809 3456 
+L 3279 3456 
+L 3279 -1392 
+L 2727 -1323 
+L 2727 437 
+Q 2537 171 2287 48 
+Q 2038 -75 1756 -75 
+Q 1290 -75 1011 148 
+Q 732 371 607 776 
+Q 483 1182 483 1723 
+Q 483 2242 633 2650 
+Q 784 3059 1078 3293 
+Q 1372 3528 1799 3528 
+z
+M 1936 3085 
+Q 1073 3085 1073 1723 
+Q 1073 384 1871 384 
+Q 2156 384 2371 543 
+Q 2586 702 2727 916 
+L 2727 2642 
+Q 2593 2852 2386 2968 
+Q 2179 3085 1936 3085 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-75" d="M 1211 3456 
+L 1211 1008 
+Q 1211 666 1352 515 
+Q 1493 364 1792 364 
+Q 2078 364 2332 526 
+Q 2586 689 2727 912 
+L 2727 3456 
+L 3279 3456 
+L 3279 0 
+L 2809 0 
+L 2764 466 
+Q 2560 203 2259 64 
+Q 1959 -75 1657 -75 
+Q 1155 -75 907 192 
+Q 660 459 660 942 
+L 660 3456 
+L 1211 3456 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-69" d="M 1969 5074 
+Q 2153 5074 2263 4962 
+Q 2373 4851 2373 4690 
+Q 2373 4523 2263 4409 
+Q 2153 4296 1969 4296 
+Q 1795 4296 1683 4409 
+Q 1572 4523 1572 4690 
+Q 1572 4851 1683 4962 
+Q 1795 5074 1969 5074 
+z
+M 2409 3456 
+L 2409 437 
+L 3384 437 
+L 3384 0 
+L 791 0 
+L 791 437 
+L 1858 437 
+L 1858 3019 
+L 824 3019 
+L 824 3456 
+L 2409 3456 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-6c" d="M 2005 4848 
+L 2005 853 
+Q 2005 597 2164 490 
+Q 2324 384 2576 384 
+Q 2731 384 2873 417 
+Q 3016 450 3157 505 
+L 3305 102 
+Q 3164 33 2955 -21 
+Q 2747 -75 2485 -75 
+Q 2025 -75 1739 179 
+Q 1454 433 1454 883 
+L 1454 4411 
+L 394 4411 
+L 394 4848 
+L 2005 4848 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-61" d="M 3134 755 
+Q 3134 545 3203 449 
+Q 3272 354 3417 312 
+L 3282 -75 
+Q 3059 -46 2891 67 
+Q 2724 181 2649 410 
+Q 2462 171 2181 48 
+Q 1900 -75 1566 -75 
+Q 1047 -75 748 217 
+Q 450 509 450 991 
+Q 450 1526 866 1811 
+Q 1283 2097 2071 2097 
+L 2580 2097 
+L 2580 2386 
+Q 2580 2760 2361 2916 
+Q 2143 3072 1756 3072 
+Q 1585 3072 1355 3031 
+Q 1126 2990 857 2895 
+L 712 3312 
+Q 1027 3430 1308 3479 
+Q 1589 3528 1841 3528 
+Q 2485 3528 2809 3226 
+Q 3134 2924 3134 2412 
+L 3134 755 
+z
+M 1707 345 
+Q 1963 345 2194 474 
+Q 2425 604 2580 834 
+L 2580 1723 
+L 2081 1723 
+Q 1510 1723 1275 1526 
+Q 1040 1329 1040 998 
+Q 1040 345 1707 345 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-20" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-50" d="M 3656 3131 
+Q 3656 2603 3431 2284 
+Q 3207 1966 2813 1821 
+Q 2419 1677 1907 1677 
+L 1329 1677 
+L 1329 0 
+L 758 0 
+L 758 4519 
+L 1913 4519 
+Q 2721 4519 3188 4181 
+Q 3656 3843 3656 3131 
+z
+M 3046 3125 
+Q 3046 3472 2908 3679 
+Q 2770 3886 2529 3976 
+Q 2288 4066 1982 4066 
+L 1329 4066 
+L 1329 2137 
+L 1959 2137 
+Q 2275 2137 2521 2222 
+Q 2767 2307 2906 2522 
+Q 3046 2737 3046 3125 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-72" d="M 693 0 
+L 693 423 
+L 1231 423 
+L 1231 3033 
+L 693 3033 
+L 693 3456 
+L 1651 3456 
+L 1753 2639 
+Q 1953 3065 2238 3298 
+Q 2524 3531 2993 3531 
+Q 3138 3531 3251 3510 
+Q 3364 3489 3482 3456 
+L 3404 2288 
+L 2951 2288 
+L 2951 3023 
+Q 2937 3023 2921 3023 
+Q 2127 3023 1782 1887 
+L 1782 423 
+L 2485 423 
+L 2485 0 
+L 693 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-6f" d="M 1976 3528 
+Q 2708 3528 3082 3039 
+Q 3456 2550 3456 1730 
+Q 3456 1201 3285 794 
+Q 3115 387 2783 156 
+Q 2452 -75 1969 -75 
+Q 1237 -75 860 417 
+Q 483 909 483 1723 
+Q 483 2255 653 2663 
+Q 824 3072 1157 3300 
+Q 1490 3528 1976 3528 
+z
+M 1976 3079 
+Q 1529 3079 1301 2747 
+Q 1073 2416 1073 1723 
+Q 1073 1037 1298 707 
+Q 1523 377 1969 377 
+Q 2416 377 2640 708 
+Q 2865 1040 2865 1730 
+Q 2865 2419 2642 2749 
+Q 2419 3079 1976 3079 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-64" d="M 2727 4917 
+L 3279 4848 
+L 3279 0 
+L 2796 0 
+L 2744 456 
+Q 2550 181 2299 53 
+Q 2048 -75 1763 -75 
+Q 1313 -75 1021 151 
+Q 729 377 587 782 
+Q 446 1188 446 1723 
+Q 446 2242 607 2650 
+Q 768 3059 1071 3293 
+Q 1375 3528 1802 3528 
+Q 2376 3528 2727 3121 
+L 2727 4917 
+z
+M 1946 3085 
+Q 1513 3085 1280 2747 
+Q 1047 2409 1047 1723 
+Q 1047 371 1877 371 
+Q 2169 371 2379 536 
+Q 2590 702 2727 916 
+L 2727 2642 
+Q 2586 2852 2386 2968 
+Q 2186 3085 1946 3085 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-63" d="M 2222 400 
+Q 2481 400 2706 484 
+Q 2931 568 3121 702 
+L 3390 341 
+Q 3164 148 2845 36 
+Q 2527 -75 2222 -75 
+Q 1707 -75 1344 146 
+Q 981 368 791 770 
+Q 601 1172 601 1713 
+Q 601 2232 791 2642 
+Q 981 3052 1345 3290 
+Q 1710 3528 2229 3528 
+Q 2888 3528 3384 3128 
+L 3115 2760 
+Q 2665 3069 2222 3069 
+Q 1776 3069 1487 2732 
+Q 1198 2396 1198 1713 
+Q 1198 1021 1487 710 
+Q 1776 400 2222 400 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-74" d="M 3404 174 
+Q 3226 56 2973 -9 
+Q 2721 -75 2478 -75 
+Q 1920 -75 1618 217 
+Q 1316 509 1316 968 
+L 1316 3029 
+L 522 3029 
+L 522 3456 
+L 1316 3456 
+L 1316 4240 
+L 1868 4306 
+L 1868 3456 
+L 3062 3456 
+L 2997 3029 
+L 1868 3029 
+L 1868 975 
+Q 1868 686 2020 535 
+Q 2173 384 2527 384 
+Q 2721 384 2885 430 
+Q 3049 476 3190 548 
+L 3404 174 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-6e" d="M 660 0 
+L 660 3456 
+L 1129 3456 
+L 1172 2977 
+Q 1382 3243 1697 3385 
+Q 2012 3528 2314 3528 
+Q 2823 3528 3054 3259 
+Q 3285 2990 3285 2511 
+L 3285 0 
+L 2734 0 
+L 2734 2104 
+Q 2734 2458 2694 2674 
+Q 2655 2891 2529 2993 
+Q 2403 3095 2143 3095 
+Q 1940 3095 1761 3006 
+Q 1582 2918 1442 2785 
+Q 1303 2652 1211 2517 
+L 1211 0 
+L 660 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="FiraCode-Regular-73" d="M 1835 381 
+Q 2235 381 2465 528 
+Q 2695 676 2695 929 
+Q 2695 1083 2637 1198 
+Q 2580 1313 2402 1406 
+Q 2225 1500 1858 1592 
+Q 1500 1680 1236 1796 
+Q 972 1913 825 2100 
+Q 679 2288 679 2586 
+Q 679 3023 1043 3275 
+Q 1408 3528 1992 3528 
+Q 2409 3528 2719 3416 
+Q 3029 3305 3246 3147 
+L 3003 2773 
+Q 2809 2908 2571 2995 
+Q 2334 3082 1999 3082 
+Q 1592 3082 1421 2955 
+Q 1251 2829 1251 2629 
+Q 1251 2475 1334 2374 
+Q 1418 2274 1618 2195 
+Q 1818 2117 2169 2022 
+Q 2508 1930 2760 1805 
+Q 3013 1680 3152 1478 
+Q 3292 1277 3292 955 
+Q 3292 587 3082 359 
+Q 2872 131 2539 28 
+Q 2206 -75 1835 -75 
+Q 1365 -75 1035 61 
+Q 706 197 483 391 
+L 798 755 
+Q 1001 587 1265 484 
+Q 1529 381 1835 381 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#FiraCode-Regular-54"/>
+     <use xlink:href="#FiraCode-Regular-65" x="61.538452"/>
+     <use xlink:href="#FiraCode-Regular-71" x="123.076904"/>
+     <use xlink:href="#FiraCode-Regular-75" x="184.615356"/>
+     <use xlink:href="#FiraCode-Regular-69" x="246.153809"/>
+     <use xlink:href="#FiraCode-Regular-6c" x="307.692261"/>
+     <use xlink:href="#FiraCode-Regular-61" x="369.230713"/>
+     <use xlink:href="#FiraCode-Regular-20" x="430.769165"/>
+     <use xlink:href="#FiraCode-Regular-50" x="492.307617"/>
+     <use xlink:href="#FiraCode-Regular-72" x="553.846069"/>
+     <use xlink:href="#FiraCode-Regular-6f" x="615.384521"/>
+     <use xlink:href="#FiraCode-Regular-64" x="676.922974"/>
+     <use xlink:href="#FiraCode-Regular-75" x="738.461426"/>
+     <use xlink:href="#FiraCode-Regular-63" x="799.999878"/>
+     <use xlink:href="#FiraCode-Regular-74" x="861.53833"/>
+     <use xlink:href="#FiraCode-Regular-69" x="923.076782"/>
+     <use xlink:href="#FiraCode-Regular-6f" x="984.615234"/>
+     <use xlink:href="#FiraCode-Regular-6e" x="1046.153687"/>
+     <use xlink:href="#FiraCode-Regular-20" x="1107.692139"/>
+     <use xlink:href="#FiraCode-Regular-50" x="1169.230591"/>
+     <use xlink:href="#FiraCode-Regular-72" x="1230.769043"/>
+     <use xlink:href="#FiraCode-Regular-6f" x="1292.307495"/>
+     <use xlink:href="#FiraCode-Regular-63" x="1353.845947"/>
+     <use xlink:href="#FiraCode-Regular-65" x="1415.384399"/>
+     <use xlink:href="#FiraCode-Regular-73" x="1476.922852"/>
+     <use xlink:href="#FiraCode-Regular-73" x="1538.461304"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd6647a286d">
+   <rect x="0" y="17.099375" width="1004.4" height="443.52"/>
+  </clipPath>
+ </defs>
+</svg>
