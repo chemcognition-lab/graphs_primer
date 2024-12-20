@@ -59,7 +59,14 @@ def draw_graph_legend(G, name, node_name, edge_name, fontsize=22, linespacing=1.
 
 
 def draw_tensor(
-    values, col, labels=None, cmaps=None, rsize=0.5, rotate_text=True, draw_text=True
+    values,
+    col,
+    labels=None,
+    cmaps=None,
+    rsize=0.5,
+    rotate_text=True,
+    draw_text=True,
+    shape_title=True,
 ):
     assert values.ndim == 2, "Olny 2D tensors!"
     n, k = values.shape
@@ -85,10 +92,15 @@ def draw_tensor(
     ax.set_xticklabels([])
     if draw_text:
         ax.set_yticks(np.arange(rsize / 2, height, rsize))
-        ax.set_yticklabels(labels[::-1])
+        ax.set_yticklabels(labels[::-1], fontsize=18)
     else:
         ax.set_yticks([])
         ax.set_yticklabels([])
+    if shape_title:
+        plt.title(
+            f"{values.shape[0]}x{values.shape[1]}",
+            fontdict={"color": col, "fontsize": 18},
+        )
 
     for _, spine in ax.spines.items():
         spine.set_visible(True)

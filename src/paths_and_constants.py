@@ -3,6 +3,14 @@
 from pathlib import Path
 
 
+class Paths:
+    project_dir = Path(__file__).parent.parent
+    data_dir = project_dir / "data"
+    graph_dir = data_dir / "graphs"
+    figures_dir = project_dir / "figures"
+    assets_dir = figures_dir / "assets"
+
+
 # Colors were explored in notebook 'Aesthetics_exploration.ipynb' and
 # saved here.
 class Colors:
@@ -56,10 +64,3 @@ class Colors:
         [0.19848715911984285, 0.23126050420168068, 0.14521008403361343],
         [0.9938807059543996, 1.0, 0.9764705882352942],
     ]
-
-
-class Paths:
-    project_dir = Path(__file__).parent.parent
-    data_dir = project_dir / "data"
-    figures_dir = project_dir / "figures"
-    assets_dir = figures_dir / "assets"
