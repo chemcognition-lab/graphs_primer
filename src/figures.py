@@ -4,7 +4,9 @@ import matplotlib.patches as patches
 import matplotlib.pyplot as plt
 import numpy as np
 
-from . import vis
+from . import numerics, paths_and_constants, vis
+
+Colors = paths_and_constants.Colors
 
 
 def draw_graph_legend(G, name, node_name, edge_name, fontsize=22, linespacing=1.2):
@@ -116,8 +118,53 @@ def draw_vector(values, cmap):
     index = np.arange(k)
     colors = [cmap(v) for v in values]
     ax = plt.gca()
-    rect = patches.Rectangle((-0.5, 0.0), k, 1.0, facecolor=BG_COL, edgecolor=BG_EDGE)
+    rect = patches.Rectangle(
+        (-0.5, 0.0),
+        k,
+        1.0,
+        facecolor=Colors.background,
+        edgecolor=Colors.background_edge,
+    )
     ax.add_patch(rect)
     plt.bar(index, values, width=0.95, linewidth=1, edgecolor=cmap(1.0), color=colors)
     plt.axis("off")
     plt.ylim([0.0, 1])
+
+
+def build_graph_parts(g, spec_list, main_color, extra_colors, extract_fn):
+    tensors = {}
+    names = []
+    cmaps = []
+    n_colors = sum(feat.dim if feat.is_discrete() else 1 for feat in spec_list)
+    pal = extra_colors[:n_colors]
+    cmaps = [vis.light_color_cmap(c) for c in pal]
+    for i, feat in enumerate(spec_list):
+        name = feat.name
+        value_dict = extract_fn(g, name)
+        first = i == 0
+        if not value_dict:
+            raise ValueError(f"No attribute {name} in graph")
+        if feat.data_type == "categorical":
+            id_map = {v: i for i, v in enumerate(feat.values)}
+            ids = [id_map[v] for v in value_dict.values()]
+            tensor = numerics.one_hot_encode(ids, len(feat.values))
+            tensors[name] = tensor
+            names.extend(feat.values)
+            if first:
+                colors = [cmaps[i](1.0) for i in np.argmax(tensor, axis=1)]
+        elif feat.data_type == "continuous":
+            if feat.dim == 1:
+                tensor = numerics.cast_as_2d(list(value_dict.values()))
+            else:
+                tensor = np.hstack(list(value_dict.values()))
+            tensors[name] = numerics.normalize_values(
+                tensor, feat.values[0], feat.values[1]
+            )
+            names.append(name)
+            if first:
+                colors = [cmaps[0](vi) for vi in tensor[:, 0]]
+        else:
+            raise ValueError(f"Unknown data type {feat.data_type}")
+
+    full_tensor = np.hstack(list(tensors.values()))
+    return full_tensor, names, colors, cmaps

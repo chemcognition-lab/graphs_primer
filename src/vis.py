@@ -118,14 +118,14 @@ def print_colors(col_list):
 
 def generate_similar_colors(base_color, n, deviation_factor=0.4, hue_variation=0.02):
     """Generates a list of colors similar to a base color."""
-    h, l, s = colorsys.rgb_to_hls(*base_color)
+    h, light, s = colorsys.rgb_to_hls(*base_color)
     colors = []
     max_deviation = min(n * 0.05, deviation_factor)
     deviations = np.linspace(-max_deviation, max_deviation, n)
     for i in range(n):
         new_h = h + np.random.uniform(-hue_variation, hue_variation)
         new_h = new_h % 1
-        new_l = max(0, min(1.0, l + deviations[i]))
+        new_l = max(0, min(1.0, light + deviations[i]))
         new_s = max(0, min(1, s + deviations[i]))
         new_rgb = colorsys.hls_to_rgb(new_h, new_l, new_s)
         colors.append(new_rgb)
