@@ -5,7 +5,7 @@
    viewBox="0 0 612 791.99998"
    version="1.1"
    id="svg100"
-   sodipodi:docname="TCATensors_fig22.svg"
+   sodipodi:docname="TCATensors_Figure30.svg"
    inkscape:export-filename="TCATensors_fig22.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -28,15 +28,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1.3285985"
-     inkscape:cx="157.30862"
-     inkscape:cy="318.75695"
-     inkscape:window-width="1920"
-     inkscape:window-height="1129"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.66429925"
+     inkscape:cx="12.795438"
+     inkscape:cy="520.09693"
+     inkscape:window-width="1680"
+     inkscape:window-height="979"
+     inkscape:window-x="1912"
+     inkscape:window-y="149"
      inkscape:window-maximized="1"
-     inkscape:current-layer="LineCollection_1-5"
+     inkscape:current-layer="svg100"
      inkscape:clip-to-page="false"><inkscape:page
        x="0"
        y="0"
@@ -3252,8 +3252,7 @@
      height="629.19769"
      x="91.81739"
      y="35.239998"
-     ry="11.376316"
-     sodipodi:insensitive="true" /><g
+     ry="11.376316" /><g
      id="figure_1"
      style="stroke-linecap:butt;stroke-linejoin:round"
      transform="matrix(0.24632058,0,0,0.24632058,141.29099,116.27254)"><g
@@ -4828,7 +4827,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.644px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect121);display:inline;fill:#a6d854;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="832.45703"
            y="528.8467"
-           id="tspan4">A = 11 x 11</tspan></text></g></g><g
+           id="tspan2">A = 11 x 11</tspan></text></g></g><g
      id="g10-7"
      transform="translate(72.719759,225.8878)"
      style="stroke-linecap:butt;stroke-linejoin:round"><g
@@ -5234,7 +5233,7 @@
        y="0"><tspan
          x="850.69215"
          y="528.8467"
-         id="tspan5">E = 15 X 2</tspan></text></g><g
+         id="tspan4">E = 15 X 2</tspan></text></g><g
      id="g7"
      transform="translate(-26.23635)"><g
        id="figure_1-7"
@@ -5487,7 +5486,7 @@
        y="0"><tspan
          x="850.69215"
          y="528.8467"
-         id="tspan6">X = 11 X 2</tspan></text></g><g
+         id="tspan5">X = 11 X 2</tspan></text></g><g
      id="g3"
      transform="translate(-12.013469,7.9030648)"><text
        xml:space="preserve"
@@ -5540,7 +5539,7 @@
        style="stroke-linecap:butt;stroke-linejoin:round;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.644px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect121-17);display:inline;fill:#a6d854;fill-opacity:1"><tspan
          x="832.45703"
          y="528.8467"
-         id="tspan7">A = 10 x 10</tspan></text><g
+         id="tspan6">A = 10 x 10</tspan></text><g
        id="figure_1-4"
        style="stroke-linecap:butt;stroke-linejoin:round"
        transform="matrix(0.37781391,0,0,0.37781391,346.48041,406.34265)"><g
