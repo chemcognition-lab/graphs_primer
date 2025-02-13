@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 612 792"
+   version="1.1"
+   id="svg78"
+   sodipodi:docname="HCl-reaction_graph_Figure20.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview78"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.2212323"
+     inkscape:cx="415.56384"
+     inkscape:cy="287.00517"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="111"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="axes_1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2025-02-12T17:24:11.226490</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <defs
+       id="defs6">
+      <path
+         id="C0_0_d1aa3b555e"
+         d="M 0,20 C 5.304062,20 10.391597,17.892674 14.142136,14.142136 17.892674,10.391597 20,5.304062 20,0 20,-5.304062 17.892674,-10.391597 14.142136,-14.142136 10.391597,-17.892674 5.304062,-20 0,-20 c -5.304062,0 -10.391597,2.107326 -14.142136,5.857864 C -17.892674,-10.391597 -20,-5.304062 -20,0 c 0,5.304062 2.107326,10.391597 5.857864,14.142136 C -10.391597,17.892674 -5.304062,20 0,20 Z" />
+    </defs>
+    <clipPath
+       id="p596d530fad-9">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="720"
+         id="rect78-4" />
+    </clipPath>
+    <clipPath
+       id="p596d530fad-9-2">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="720"
+         id="rect78-4-4" />
+    </clipPath>
+    <clipPath
+       id="p596d530fad-9-2-1">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="720"
+         id="rect78-4-4-7" />
+    </clipPath>
+    <clipPath
+       id="p596d530fad-9-2-1-5">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="720"
+         id="rect78-4-4-7-2" />
+    </clipPath>
+    <clipPath
+       id="p596d530fad-9-2-1-5-1">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="720"
+         id="rect78-4-4-7-2-4" />
+    </clipPath>
+    <clipPath
+       id="p596d530fad-9-2-1-5-1-2">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="720"
+         id="rect78-4-4-7-2-4-2" />
+    </clipPath>
+  </defs>
+  <g
+     id="axes_1"
+     transform="translate(-20.880548,13.510942)">
+    <rect
+       style="fill:#ededed;fill-opacity:0.62;stroke:none;stroke-width:2.53161;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:10.1265, 20.2527;stroke-opacity:0.996078"
+       id="rect263"
+       width="564.22577"
+       height="365.19385"
+       x="44.767662"
+       y="41.921215"
+       ry="6.6029496" />
+    <g
+       id="LineCollection_1" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#00441b;fill-opacity:1;stroke:#4c9ee0;stroke-width:5;stroke-dasharray:20, 40;stroke-opacity:1"
+       x="174.60793"
+       y="82.025848"
+       id="text87"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan87"
+         style="fill:#000000;stroke:none;stroke-width:5"
+         x="174.60793"
+         y="82.025848">HCl Dissociation</tspan></text>
+    <g
+       id="g92"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:20, 40;stroke-opacity:1"
+         x="340.22177"
+         y="69.866623"
+         id="text88"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:5"
+           x="340.22177"
+           y="69.866623"
+           id="tspan89">10 nodes (atoms)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:20, 40;stroke-opacity:1"
+         x="340.98093"
+         y="86.627586"
+         id="text88-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:5"
+           x="340.98093"
+           y="86.627586"
+           id="tspan89-6">11 edges (bonds &amp; transformations)</tspan></text>
+    </g>
+    <g
+       id="g91"
+       transform="translate(6.8394688)">
+      <g
+         id="g87"
+         transform="matrix(0.73656002,0,0,0.73656002,46.024364,55.648631)">
+        <path
+           d="M 657.52066,399.50577 293.10668,657.52066"
+           clip-path="url(#p596d530fad)"
+           style="fill:none;stroke:#4c9ee0;stroke-width:16;stroke-opacity:1"
+           id="path2"
+           transform="matrix(0.61671316,0.4105551,-0.36563951,0.74438289,278.57379,-200.73229)" />
+        <path
+           d="M 490.87371,122.94305 62.479339,258.58958"
+           clip-path="url(#p596d530fad)"
+           style="fill:none;stroke:#4c9ee0;stroke-width:16;stroke-opacity:1"
+           id="path3"
+           transform="matrix(0.60439505,0.16812775,-0.20319127,0.98275523,220.52063,-88.390137)" />
+        <path
+           d="M 339.46059,62.479339 74.698314,417.60648"
+           clip-path="url(#p596d530fad)"
+           style="fill:none;stroke:#4c9ee0;stroke-width:16;stroke-opacity:1"
+           id="path4"
+           transform="matrix(0.52581098,0.55454477,-0.558407,0.61195846,406.13418,38.852263)" />
+        <path
+           d="M 299.91911,62.479353 564.68131,417.60641"
+           clip-path="url(#p596d530fad)"
+           style="fill:none;stroke:#4c9ee0;stroke-width:16"
+           id="path5"
+           transform="matrix(0.48432685,-0.94287953,0.57678571,0.61086454,35.183991,487.11995)" />
+        <path
+           d="M 299.91911,62.479353 564.68131,417.60641"
+           clip-path="url(#p596d530fad-9)"
+           style="fill:#00441b;fill-opacity:1;stroke:#abd9e9;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           id="path5-8"
+           transform="matrix(0.8717376,0.08473658,-0.65412708,0.09772052,-0.6277615,141.83524)" />
+        <path
+           d="M 74.698329,221.94175 339.46059,577.06876"
+           clip-path="url(#p596d530fad)"
+           style="fill:none;stroke:#4c9ee0;stroke-width:16"
+           id="path6"
+           transform="matrix(0.34858855,-0.8829729,0.49522044,0.49816094,125.20735,326.35249)" />
+        <path
+           d="M 299.91911,62.479353 564.68131,417.60641"
+           clip-path="url(#p596d530fad-9-2)"
+           style="fill:#00441b;fill-opacity:1;stroke:#abd9e9;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           id="path5-8-5"
+           transform="matrix(0.85087545,0.20562471,-0.66533723,-0.00190536,3.200285,287.00998)" />
+        <path
+           d="M 299.91911,62.479353 564.68131,417.60641"
+           clip-path="url(#p596d530fad-9-2-1)"
+           style="fill:#00441b;fill-opacity:1;stroke:#abd9e9;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           id="path5-8-5-1"
+           transform="matrix(-0.59250243,0.64436902,0.32436033,-0.58091964,422.15295,215.45098)"
+           inkscape:transform-center-x="1.5353344"
+           inkscape:transform-center-y="-0.92120063" />
+        <path
+           d="M 299.91911,62.479353 564.68131,417.60641"
+           clip-path="url(#p596d530fad-9-2-1-5)"
+           style="fill:#00441b;fill-opacity:1;stroke:#abd9e9;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           id="path5-8-5-1-7"
+           transform="matrix(-0.82465568,0.074045,0.6006405,-0.26509704,761.41538,351.75692)"
+           inkscape:transform-center-x="0.44278357"
+           inkscape:transform-center-y="-2.3581485" />
+        <path
+           d="M 299.91911,62.479353 564.68131,417.60641"
+           clip-path="url(#p596d530fad-9-2-1-5-1)"
+           style="fill:#00441b;fill-opacity:1;stroke:#abd9e9;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           id="path5-8-5-1-7-2"
+           transform="matrix(-0.80312123,-0.2038567,0.67376407,0.00326323,712.22683,379.69149)"
+           inkscape:transform-center-x="-0.57724176"
+           inkscape:transform-center-y="-1.7584721" />
+        <path
+           d="M 299.91911,62.479353 564.68131,417.60641"
+           clip-path="url(#p596d530fad-9-2-1-5-1-2)"
+           style="fill:#00441b;fill-opacity:1;stroke:#abd9e9;stroke-width:16;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           id="path5-8-5-1-7-2-1"
+           transform="matrix(-0.80530283,0.19506043,0.59720227,-0.31195852,748.8397,231.09922)"
+           inkscape:transform-center-x="0.31137244"
+           inkscape:transform-center-y="-1.8244102" />
+        <g
+           clip-path="url(#p596d530fad)"
+           id="g7">
+          <use
+             xlink:href="#C0_0_d1aa3b555e"
+             x="490.87372"
+             y="122.94305"
+             style="fill:#ffdd54;stroke:#ffdd54"
+             id="use7" />
+        </g>
+        <g
+           clip-path="url(#p596d530fad)"
+           id="g15"
+           transform="translate(-48.636912,-104.22195)">
+          <use
+             xlink:href="#C0_0_d1aa3b555e"
+             x="564.68134"
+             y="417.60641"
+             style="fill:#fdd123;stroke:#fdd123"
+             id="use15" />
+        </g>
+        <g
+           id="g84"
+           transform="translate(-41.688782,-22.581424)">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g6"
+             transform="translate(-66.007237,-12.159228)">
+            <use
+               xlink:href="#C0_0_d1aa3b555e"
+               x="657.52069"
+               y="399.50577"
+               style="fill:#fdd123;stroke:#fdd123"
+               id="use6" />
+          </g>
+          <g
+             id="text_1"
+             transform="translate(-66.007237,-12.159228)">
+            <g
+               clip-path="url(#p596d530fad)"
+               id="g17">
+              <!-- H -->
+              <g
+                 transform="matrix(0.12,0,0,-0.12,653.82785,402.74577)"
+                 id="g16">
+                <defs
+                   id="defs15">
+                  <path
+                     id="FiraCode-Regular-48"
+                     d="M 2823,0 V 2143 H 1116 V 0 H 548 v 4519 h 568 V 2609 h 1707 v 1910 h 567 V 0 Z"
+                     transform="scale(0.015625)" />
+                </defs>
+                <use
+                   xlink:href="#FiraCode-Regular-48"
+                   id="use16" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="text_2">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g19">
+            <!-- Cl -->
+            <g
+               transform="matrix(0.12,0,0,-0.12,483.48809,126.18305)"
+               id="g18">
+              <defs
+                 id="defs17">
+                <path
+                   id="FiraCode-Regular-43"
+                   d="m 2350,4592 q 443,0 741,-112 299,-112 569,-328 l -319,-371 q -213,180 -451,257 -238,78 -497,78 -371,0 -686,-176 -315,-175 -507,-581 -192,-405 -192,-1098 0,-672 182,-1079 182,-407 494,-588 312,-180 696,-180 377,0 625,114 248,115 425,263 L 3725,417 Q 3518,217 3186,71 2855,-75 2373,-75 1822,-75 1378,192 935,459 676,981 417,1503 417,2261 q 0,762 264,1282 264,520 704,784 440,265 965,265 z"
+                   transform="scale(0.015625)" />
+                <path
+                   id="FiraCode-Regular-6c"
+                   d="M 2005,4848 V 853 q 0,-256 159,-363 160,-106 412,-106 155,0 297,33 143,33 284,88 L 3305,102 Q 3164,33 2955,-21 2747,-75 2485,-75 2025,-75 1739,179 1454,433 1454,883 V 4411 H 394 v 437 z"
+                   transform="scale(0.015625)" />
+              </defs>
+              <use
+                 xlink:href="#FiraCode-Regular-43"
+                 id="use17" />
+              <use
+                 xlink:href="#FiraCode-Regular-6c"
+                 transform="translate(61.538452)"
+                 id="use18" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g79"
+           transform="translate(-48.636912,-104.22195)">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g8"
+             transform="translate(251.79484,310.75168)">
+            <use
+               xlink:href="#C0_0_d1aa3b555e"
+               x="339.4606"
+               y="62.47934"
+               style="fill:#dfaf0e;stroke:#dfaf0e"
+               id="use8" />
+          </g>
+          <g
+             id="text_3"
+             transform="translate(251.79579,311.74637)">
+            <g
+               clip-path="url(#p596d530fad)"
+               id="g21">
+              <!-- O -->
+              <g
+                 transform="matrix(0.12,0,0,-0.12,335.76778,65.719339)"
+                 id="g20">
+                <defs
+                   id="defs19">
+                  <path
+                     id="FiraCode-Regular-4f"
+                     d="m 3633,2255 q 0,-686 -187,-1211 -187,-525 -556,-822 -369,-297 -921,-297 -551,0 -921,290 -369,290 -556,812 -187,522 -187,1221 0,686 187,1214 187,529 556,829 370,301 921,301 552,0 921,-293 369,-292 556,-819 187,-526 187,-1225 z m -597,0 q 0,902 -248,1381 -248,480 -819,480 -571,0 -819,-483 -247,-482 -247,-1385 0,-902 256,-1373 256,-471 810,-471 571,0 819,474 248,474 248,1377 z"
+                     transform="scale(0.015625)" />
+                </defs>
+                <use
+                   xlink:href="#FiraCode-Regular-4f"
+                   id="use19" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g86"
+           transform="translate(-3.9083233,64.704463)">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g9"
+             transform="translate(-78.166469,110.30157)">
+            <use
+               xlink:href="#C0_0_d1aa3b555e"
+               x="299.9191"
+               y="62.479355"
+               style="fill:#fdd123;stroke:#fdd123"
+               id="use9" />
+          </g>
+          <g
+             id="text_4"
+             transform="translate(-78.166469,110.30157)">
+            <g
+               clip-path="url(#p596d530fad)"
+               id="g23">
+              <!-- H -->
+              <g
+                 transform="matrix(0.12,0,0,-0.12,296.2263,65.719353)"
+                 id="g22">
+                <use
+                   xlink:href="#FiraCode-Regular-48"
+                   id="use21" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g80"
+           transform="translate(133.6943,182.32683)">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g10">
+            <use
+               xlink:href="#C0_0_d1aa3b555e"
+               x="74.698326"
+               y="221.94176"
+               style="fill:#fdd123;stroke:#fdd123"
+               id="use10" />
+          </g>
+          <g
+             id="text_5">
+            <g
+               clip-path="url(#p596d530fad)"
+               id="g25">
+              <!-- H -->
+              <g
+                 transform="matrix(0.12,0,0,-0.12,71.005516,225.18175)"
+                 id="g24">
+                <use
+                   xlink:href="#FiraCode-Regular-48"
+                   id="use23" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g85"
+           transform="translate(1.3027742,-64.704463)">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g11"
+             transform="translate(156.33293,-19.975875)">
+            <use
+               xlink:href="#C0_0_d1aa3b555e"
+               x="62.47934"
+               y="258.58957"
+               style="fill:#ffdd54;stroke:#ffdd54"
+               id="use11" />
+          </g>
+          <g
+             id="text_6"
+             transform="translate(156.33293,-19.975875)">
+            <g
+               clip-path="url(#p596d530fad)"
+               id="g27">
+              <!-- Cl -->
+              <g
+                 transform="matrix(0.12,0,0,-0.12,55.093714,261.82957)"
+                 id="g26">
+                <use
+                   xlink:href="#FiraCode-Regular-43"
+                   id="use25" />
+                <use
+                   xlink:href="#FiraCode-Regular-6c"
+                   transform="translate(61.538452)"
+                   id="use26" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g83"
+           transform="translate(145.04222,-80.772015)">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g12">
+            <use
+               xlink:href="#C0_0_d1aa3b555e"
+               x="74.698311"
+               y="417.60648"
+               style="fill:#dfaf0e;stroke:#dfaf0e"
+               id="use12" />
+          </g>
+          <g
+             id="text_7">
+            <g
+               clip-path="url(#p596d530fad)"
+               id="g29">
+              <!-- O -->
+              <g
+                 transform="matrix(0.12,0,0,-0.12,71.005501,420.84648)"
+                 id="g28">
+                <use
+                   xlink:href="#FiraCode-Regular-4f"
+                   id="use27" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g82"
+           transform="translate(-32.135099,-287.4789)">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g13">
+            <use
+               xlink:href="#C0_0_d1aa3b555e"
+               x="293.10669"
+               y="657.52069"
+               style="fill:#fdd123;stroke:#fdd123"
+               id="use13" />
+          </g>
+          <g
+             id="text_8">
+            <g
+               clip-path="url(#p596d530fad)"
+               id="g31">
+              <!-- H -->
+              <g
+                 transform="matrix(0.12,0,0,-0.12,289.41387,660.76066)"
+                 id="g30">
+                <use
+                   xlink:href="#FiraCode-Regular-48"
+                   id="use29" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g81"
+           transform="translate(203.23281,-363.90832)">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g14">
+            <use
+               xlink:href="#C0_0_d1aa3b555e"
+               x="339.4606"
+               y="577.06879"
+               style="fill:#fdd123;stroke:#fdd123"
+               id="use14" />
+          </g>
+          <g
+             id="text_9">
+            <g
+               clip-path="url(#p596d530fad)"
+               id="g33">
+              <!-- H -->
+              <g
+                 transform="matrix(0.12,0,0,-0.12,335.76778,580.30876)"
+                 id="g32">
+                <use
+                   xlink:href="#FiraCode-Regular-48"
+                   id="use31" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="text_10"
+           transform="translate(-48.636912,-104.22195)">
+          <g
+             clip-path="url(#p596d530fad)"
+             id="g35">
+            <!-- H -->
+            <g
+               transform="matrix(0.12,0,0,-0.12,560.9885,420.84641)"
+               id="g34">
+              <use
+                 xlink:href="#FiraCode-Regular-48"
+                 id="use33" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#878787;stroke-width:5;stroke-dasharray:10, 10;stroke-dashoffset:3.5;stroke-opacity:1"
+         id="rect90"
+         width="101.18214"
+         height="230.59108"
+         x="164.18573"
+         y="147.16458"
+         ry="7.3261409" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#878787;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:10, 10;stroke-dashoffset:3.5;stroke-opacity:1"
+         id="rect90-8"
+         width="101.18214"
+         height="230.59108"
+         x="380.47739"
+         y="118.78249"
+         ry="7.3261409" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5;stroke-dasharray:20, 40;stroke-dashoffset:0;stroke-opacity:1"
+         x="81.782051"
+         y="363.33255"
+         id="text91"><tspan
+           sodipodi:role="line"
+           id="tspan91"
+           style="fill:#4d4d4d;stroke:none;stroke-width:5"
+           x="81.782051"
+           y="363.33255">reactants</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:20, 40;stroke-dashoffset:0;stroke-opacity:1"
+         x="499.13699"
+         y="311.76047"
+         id="text91-2"><tspan
+           sodipodi:role="line"
+           id="tspan91-7"
+           style="fill:#4d4d4d;stroke:none;stroke-width:5"
+           x="499.13699"
+           y="311.76047">products</tspan></text>
+    </g>
+  </g>
+  <defs
+     id="defs78">
+    <clipPath
+       id="p596d530fad">
+      <rect
+         x="0"
+         y="0"
+         width="720"
+         height="720"
+         id="rect78" />
+    </clipPath>
+  </defs>
+</svg>
