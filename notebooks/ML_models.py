@@ -10,7 +10,8 @@ from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.ensemble import RandomForestRegressor
 from xgboost import XGBRegressor
 from sklearn.metrics import mean_squared_error, r2_score
-from sklearn.gaussian_process.kernels import RBF, Matern, RationalQuadratic, WhiteKernel, ConstantKernel
+from sklearn.gaussian_process.kernels import RBF, ConstantKernel
+from sklearn.preprocessing import StandardScaler  # Import scaler
 
 # 🔹 Get the current working directory
 cwd = os.getcwd()
@@ -19,10 +20,12 @@ if cwd.endswith("graphs_primer"):
     base_dir = cwd  # Already in graphs_primer
 else:
     base_dir = os.path.join(cwd, "graphs_primer")  # Move to the correct directory
+
 # 🔹 Define paths for data and output
 data_dir = os.path.join(base_dir, "data")
 figures_dir = os.path.join(base_dir, "figures", "assets")
 font_dir = os.path.join(data_dir, "misc")
+
 # 🔹 Ensure required directories exist
 os.makedirs(data_dir, exist_ok=True)
 os.makedirs(figures_dir, exist_ok=True)
@@ -39,36 +42,49 @@ y = df["measured log solubility in mols per litre"].values
 # 🔹 Split data into training and test sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-MW = X_train[:, 0]
-NHBA = X_train[:, 1]
-logS = y_train[:]
+# 🔹 Standardize X and y for GP
+X_scaler = StandardScaler()
+y_scaler = StandardScaler()
+
+X_train_scaled = X_scaler.fit_transform(X_train)
+y_train_scaled = y_scaler.fit_transform(y_train.reshape(-1, 1)).flatten()
+
+X_test_scaled = X_scaler.transform(X_test)
+y_test_scaled = y_scaler.transform(y_test.reshape(-1, 1)).flatten()
 
 # 🔹 Define models
 models = {
     "Linear Regression": LinearRegression(),
-    "Gaussian Process": GaussianProcessRegressor(kernel = ConstantKernel(1.0) * RBF(length_scale=1.0), alpha=1e-5, random_state=42),
+    "Gaussian Process": GaussianProcessRegressor(
+        kernel=ConstantKernel(1.0) * RBF(length_scale=1.0), 
+        alpha=1e-5, 
+        random_state=42
+    ),
     "Random Forest": RandomForestRegressor(n_estimators=100, random_state=42),
     "XGBoost": XGBRegressor(n_estimators=100, random_state=42),
 }
 
-# Define font directory and path
-font_dir = os.path.abspath("./data/misc")  # Ensure this is the correct directory
-font_path = os.path.join(font_dir, "FiraCode-Regular.ttf")  # Correct file extension
-
-# Print to debug if the file exists
+# 🔹 Load Fira Code font
+font_path = os.path.join(font_dir, "FiraCode-Regular.ttf")  # Ensure file exists
 print("Font Path:", font_path)
+
 if not os.path.exists(font_path):
     raise FileNotFoundError(f"Font file not found: {font_path}")
-fira_code_font = fm.FontProperties(fname=font_path)
 
+fira_code_font = fm.FontProperties(fname=font_path)
 
 # 🔹 Train, predict, and evaluate models
 fig, axes = plt.subplots(2, 2, figsize=(12, 10))
 axes = axes.ravel()
 
 for i, (name, model) in enumerate(models.items()):
-    model.fit(X_train, y_train)  # Train model
-    y_pred = model.predict(X_test)  # Predict
+    if name == "Gaussian Process":
+        model.fit(X_train_scaled, y_train_scaled)  # Train GP on normalized data
+        y_pred_scaled = model.predict(X_test_scaled)  # Predict in normalized space
+        y_pred = y_scaler.inverse_transform(y_pred_scaled.reshape(-1, 1)).flatten()  # Convert back
+    else:
+        model.fit(X_train, y_train)  # Train normally
+        y_pred = model.predict(X_test)  # Predict normally
     
     # Calculate metrics
     mse = mean_squared_error(y_test, y_pred)
@@ -77,16 +93,14 @@ for i, (name, model) in enumerate(models.items()):
     # 🔹 Plot actual vs. predicted values
     axes[i].scatter(y_test, y_pred, alpha=0.7)
     axes[i].plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], linestyle="--", color="red")
-    axes[i].set_title(f"{name}\nMSE: {mse:.2f}, R²: {r2:.2f}", fontproperties=fira_code_font, fontsize=16)
+    axes[i].set_title(f"{name}\nMSE: {mse:.3f}, R²: {r2:.3f}", fontproperties=fira_code_font, fontsize=16)
     axes[i].set_xlabel("Actual logS", fontproperties=fira_code_font, fontsize=14)
     axes[i].set_ylabel("Predicted logS", fontproperties=fira_code_font, fontsize=14)
-
-    # 🔹 Save each plot as SVG
-    plt.savefig(f"{figures_dir}/{name.replace(' ', '_')}_actual_vs_predicted.svg", format="svg")
 
 plt.tight_layout()
 plt.savefig(f"{figures_dir}/ML_models_actual_vs_predicted.svg", format="svg")  # Save full figure
 plt.show()
+
 
 # 🔹 Distribution Plots
 sns.set_style("whitegrid")
