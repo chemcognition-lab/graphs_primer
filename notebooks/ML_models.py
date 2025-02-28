@@ -6,11 +6,10 @@ import matplotlib.font_manager as fm
 import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-from sklearn.gaussian_process import GaussianProcessRegressor
+from sklearn.neural_network import MLPRegressor  # Import MLP
 from sklearn.ensemble import RandomForestRegressor
 from xgboost import XGBRegressor
 from sklearn.metrics import mean_squared_error, r2_score
-from sklearn.gaussian_process.kernels import RBF, ConstantKernel
 from sklearn.preprocessing import StandardScaler  # Import scaler
 
 # 🔹 Get the current working directory
@@ -39,10 +38,15 @@ df = pd.read_csv(csv_path)
 X = df[["Molecular Weight", "Number of H-Bond Donors"]].values
 y = df["measured log solubility in mols per litre"].values
 
+# For the distribution plots later
+MW = df["Molecular Weight"]
+NHBA = df["Number of H-Bond Donors"]
+logS = df["measured log solubility in mols per litre"]
+
 # 🔹 Split data into training and test sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# 🔹 Standardize X and y for GP
+# 🔹 Standardize X and y for MLP
 X_scaler = StandardScaler()
 y_scaler = StandardScaler()
 
@@ -55,9 +59,12 @@ y_test_scaled = y_scaler.transform(y_test.reshape(-1, 1)).flatten()
 # 🔹 Define models
 models = {
     "Linear Regression": LinearRegression(),
-    "Gaussian Process": GaussianProcessRegressor(
-        kernel=ConstantKernel(1.0) * RBF(length_scale=1.0), 
-        alpha=1e-5, 
+    "MLP": MLPRegressor(
+        hidden_layer_sizes=(100, 50),  # Two hidden layers with 100 and 50 neurons
+        activation='relu',
+        solver='adam',
+        alpha=0.0001,  # L2 regularization
+        max_iter=1000,
         random_state=42
     ),
     "Random Forest": RandomForestRegressor(n_estimators=100, random_state=42),
@@ -78,8 +85,8 @@ fig, axes = plt.subplots(2, 2, figsize=(12, 10))
 axes = axes.ravel()
 
 for i, (name, model) in enumerate(models.items()):
-    if name == "Gaussian Process":
-        model.fit(X_train_scaled, y_train_scaled)  # Train GP on normalized data
+    if name == "MLP":
+        model.fit(X_train_scaled, y_train_scaled)  # Train MLP on normalized data
         y_pred_scaled = model.predict(X_test_scaled)  # Predict in normalized space
         y_pred = y_scaler.inverse_transform(y_pred_scaled.reshape(-1, 1)).flatten()  # Convert back
     else:
@@ -124,32 +131,19 @@ plt.show()
 
 print(f"All SVG plots saved in '{figures_dir}' folder.")
 
-# 🔹 Create distribution plots for MW, NHBA, and logP
+# 🔹 Create distribution plots for MW, NHBA, and logS
 features = {"MW": MW, "NHBA": NHBA, "logS": logS}
 
 for feature, values in features.items():
-    if feature != 'logP':
-        plt.figure(figsize=(6, 4))
-        sns.histplot(values, kde=True, bins=20, color="#fdc422")
-        plt.title(f"{feature} Distribution", fontproperties=fira_code_font, fontsize=16)
-        plt.xlabel(feature, fontproperties=fira_code_font, fontsize=14)
-        plt.ylabel("Count", fontsize=14)
-        plt.xticks(fontsize=12)
-        plt.yticks(fontsize=12)
-        
-        # Save distribution plots
-        plt.savefig(os.path.join(figures_dir, f"{feature}_distribution.svg"), format="svg", bbox_inches="tight")
-        plt.close()
-
-    else:
-        plt.figure(figsize=(6, 4))
-        sns.histplot(values, kde=True, bins=20, color="#fc8d62")
-        plt.title(f"{feature} Distribution", fontproperties=fira_code_font, fontsize=16)
-        plt.xlabel(feature, fontproperties=fira_code_font, fontsize=14)
-        plt.ylabel("Count", fontsize=14)
-        plt.xticks(fontsize=12)
-        plt.yticks(fontsize=12)
-
-        # Save distribution plots
-        plt.savefig(os.path.join(figures_dir, f"{feature}_distribution.svg"), format="svg", bbox_inches="tight")
-        plt.close()
+    plt.figure(figsize=(6, 4))
+    color = "#fdc422" if feature != "logS" else "#fc8d62"
+    sns.histplot(values, kde=True, bins=20, color=color)
+    plt.title(f"{feature} Distribution", fontproperties=fira_code_font, fontsize=16)
+    plt.xlabel(feature, fontproperties=fira_code_font, fontsize=14)
+    plt.ylabel("Count", fontsize=14)
+    plt.xticks(fontsize=12)
+    plt.yticks(fontsize=12)
+    
+    # Save distribution plots
+    plt.savefig(os.path.join(figures_dir, f"{feature}_distribution.svg"), format="svg", bbox_inches="tight")
+    plt.close()
