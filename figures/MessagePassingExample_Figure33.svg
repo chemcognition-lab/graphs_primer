@@ -654,14 +654,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1"
-     inkscape:cx="505.5"
-     inkscape:cy="368.5"
+     inkscape:cx="564.5"
+     inkscape:cy="388.5"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" /><metadata
+     inkscape:current-layer="g46-8-6" /><metadata
      id="metadata1">
 Created by potrace 1.16, written by Peter Selinger 2001-2019
 </metadata><text
@@ -673,7 +673,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
      y="0"><tspan
        x="80.425781"
        y="39.420664"
-       id="tspan19">Message passing on a methane molecule </tspan></text><g
+       id="tspan2">Message passing on a methane molecule </tspan></text><g
      id="g109"
      transform="translate(-23.889137,0.75)"><g
        id="g108"
@@ -702,9 +702,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#fdc422;fill-opacity:0.16;stroke:#000000;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="618.79062"
              y="103.6844"
-             id="tspan21"><tspan
+             id="tspan4"><tspan
                style="fill:#1a1a1a;fill-opacity:1;stroke:none"
-               id="tspan20">C</tspan></tspan></text><circle
+               id="tspan3">C</tspan></tspan></text><circle
            style="fill:#fdc422;fill-opacity:1;stroke:#a57b2e;stroke-width:0.864456;stroke-opacity:1"
            id="path2-7-7-1-3"
            cx="146.88852"
@@ -716,7 +716,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-8);display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="618.79062"
              y="103.6844"
-             id="tspan62">H</tspan></text><g
+             id="tspan5">H</tspan></text><g
            id="g3"
            transform="matrix(0.1,0,0,-0.1,-175.03101,343.43361)"
            style="fill:#000000;stroke:none"><circle
@@ -732,7 +732,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan68">H</tspan></text></g><g
+               id="tspan6">H</tspan></text></g><g
            id="g5"
            transform="matrix(0.1,0,0,-0.1,-173.77988,346.64091)"
            style="fill:#000000;stroke:none"><circle
@@ -748,7 +748,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan69">H</tspan></text></g><g
+               id="tspan7">H</tspan></text></g><g
            id="g4"
            transform="matrix(0.1,0,0,-0.1,-174.01817,343.86418)"
            style="fill:#000000;stroke:none"><circle
@@ -764,7 +764,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-4);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan70">H</tspan></text></g></g><text
+               id="tspan8">H</tspan></text></g></g><text
          xml:space="preserve"
          transform="matrix(0.59537275,2.7625226e-8,-2.7625226e-8,0.59537275,91.685568,-125.16633)"
          id="text1"
@@ -773,23 +773,23 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
          y="0"><tspan
            x="197.46484"
            y="374.07108"
-           id="tspan73"><tspan
+           id="tspan10"><tspan
              style="text-align:start"
-             id="tspan71">X = [5 x 3]
+             id="tspan9">X = [5 x 3]
 </tspan></tspan><tspan
            x="197.46484"
            y="399.26533"
-           id="tspan80"><tspan
+           id="tspan13"><tspan
              style="text-align:start;fill:#4ca4e0"
-             id="tspan76">E = [4 x 2]</tspan><tspan
+             id="tspan11">E = [4 x 2]</tspan><tspan
              style="text-align:start"
-             id="tspan79">
+             id="tspan12">
 </tspan></tspan><tspan
            x="197.46484"
            y="424.45957"
-           id="tspan82"><tspan
+           id="tspan15"><tspan
              style="fill:#cc3f35"
-             id="tspan81">U = [1 x 1] </tspan></tspan></text></g><text
+             id="tspan14">U = [1 x 1] </tspan></tspan></text></g><text
        xml:space="preserve"
        transform="matrix(0.75,0,0,0.75,301.96564,69.709562)"
        id="text2-4"
@@ -798,19 +798,19 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
        y="0"><tspan
          x="80.425781"
          y="39.420664"
-         id="tspan87">Message passing steps:
+         id="tspan16">Message passing steps:
 </tspan><tspan
          x="80.425781"
          y="57.820666"
-         id="tspan89">1) preparation
+         id="tspan17">1) preparation
 </tspan><tspan
          x="80.425781"
          y="76.220667"
-         id="tspan90">2) aggregration 
+         id="tspan18">2) aggregration 
 </tspan><tspan
          x="80.425781"
          y="94.620669"
-         id="tspan91">3) update</tspan></text></g><g
+         id="tspan19">3) update</tspan></text></g><g
      id="g48"
      transform="translate(6.9972164,0.75)"><text
        xml:space="preserve"
@@ -821,9 +821,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
        y="0"><tspan
          x="80.425781"
          y="39.420664"
-         id="tspan93"><tspan
+         id="tspan21"><tspan
            style="font-weight:bold"
-           id="tspan92">a) Edge data</tspan></tspan></text><g
+           id="tspan20">a) Edge data</tspan></tspan></text><g
        id="g47"
        transform="translate(0,11.361478)"><g
          id="g8-1"
@@ -851,9 +851,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-1);display:inline;fill:#fdc422;fill-opacity:0.16;stroke:#000000;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="618.79062"
              y="103.6844"
-             id="tspan97"><tspan
+             id="tspan23"><tspan
                style="fill:#1a1a1a;fill-opacity:1;stroke:none"
-               id="tspan96">C</tspan></tspan></text><circle
+               id="tspan22">C</tspan></tspan></text><circle
            style="fill:#fdc422;fill-opacity:1;stroke:#a57b2e;stroke-width:0.864456;stroke-opacity:1"
            id="path2-7-7-1-3-6"
            cx="146.88852"
@@ -865,7 +865,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-8-1);display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="618.79062"
              y="103.6844"
-             id="tspan98">H</tspan></text><g
+             id="tspan24">H</tspan></text><g
            id="g3-9"
            transform="matrix(0.1,0,0,-0.1,-175.03101,343.43361)"
            style="fill:#000000;stroke:none"><circle
@@ -881,7 +881,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-52);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan109">H</tspan></text></g><g
+               id="tspan25">H</tspan></text></g><g
            id="g5-5"
            transform="matrix(0.1,0,0,-0.1,-173.77988,346.64091)"
            style="fill:#000000;stroke:none"><circle
@@ -897,7 +897,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-7);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan110">H</tspan></text></g><g
+               id="tspan26">H</tspan></text></g><g
            id="g4-2"
            transform="matrix(0.1,0,0,-0.1,-174.01817,343.86418)"
            style="fill:#000000;stroke:none"><circle
@@ -913,7 +913,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-4-6);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan111">H</tspan></text></g></g><path
+               id="tspan27">H</tspan></text></g></g><path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.50007;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
          d="m 119.96631,218.60181 -22.787079,0.1196"
          id="path9"
@@ -927,19 +927,19 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
          y="0"><tspan
            x="216.23524"
            y="305.90699"
-           id="tspan113"><tspan
+           id="tspan29"><tspan
              style="font-size:14.6667px"
-             id="tspan112">edge of interest
+             id="tspan28">edge of interest
 </tspan></tspan><tspan
            x="231.93677"
            y="324.30699"
-           id="tspan117"><tspan
+           id="tspan33"><tspan
              style="font-size:14.6667px"
-             id="tspan114">E</tspan><tspan
+             id="tspan30">E</tspan><tspan
              style="font-size:14.6667px;baseline-shift:sub"
-             id="tspan115">i</tspan><tspan
+             id="tspan31">i</tspan><tspan
              style="font-size:14.6667px"
-             id="tspan116"> = [1 x 2]</tspan></tspan></text></g><g
+             id="tspan32"> = [1 x 2]</tspan></tspan></text></g><g
        id="g46"
        transform="translate(-10.185676,7.6392571)"><path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.11583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9)"
@@ -958,42 +958,32 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.15;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15);display:inline;fill:#4ea4e0;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
            x="391.37903"
            y="281.97385"
-           id="tspan120"><tspan
+           id="tspan36"><tspan
              style="font-weight:bold;fill:#000000"
-             id="tspan118">Prepare </tspan><tspan
+             id="tspan34">Prepare </tspan><tspan
              style="fill:#000000"
-             id="tspan119">data by collecting </tspan></tspan><tspan
+             id="tspan35">data by collecting </tspan></tspan><tspan
            x="380.80512"
            y="298.84055"
-           id="tspan123"><tspan
+           id="tspan39"><tspan
              style="fill:#000000"
-             id="tspan121">from all features &amp; </tspan><tspan
+             id="tspan37">from all features &amp; </tspan><tspan
              style="font-weight:bold"
-             id="tspan122">aggregate</tspan></tspan></text><text
+             id="tspan38">aggregate</tspan></tspan></text><text
          xml:space="preserve"
          transform="matrix(0.75,0,0,0.75,102.25273,-17.00932)"
          id="text15-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.15;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15-5);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
            x="391.55897"
            y="281.97385"
-           id="tspan125">Information for edge (E<tspan
+           id="tspan41">Information for edge (E<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan124">i</tspan>) is </tspan><tspan
+   id="tspan40">i</tspan>) is </tspan><tspan
            x="402.13199"
            y="298.84055"
-           id="tspan127"><tspan
+           id="tspan43"><tspan
    style="font-weight:bold"
-   id="tspan126">updated</tspan> using an MLP </tspan></text><text
-         xml:space="preserve"
-         transform="matrix(0.75,0,0,0.75,168.47984,45.76367)"
-         id="text15-9-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.15;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15-5-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
-           x="389.49237"
-           y="281.97385"
-           id="tspan128">Do the same for the </tspan><tspan
-           x="409.04677"
-           y="298.84055"
-           id="tspan129">node features </tspan></text><g
+   id="tspan42">updated</tspan> using an MLP </tspan></text><g
          id="g21"
          transform="matrix(0.61501975,0,0,0.61501975,89.024156,76.909081)"><g
            id="g8-1-4"
@@ -1021,9 +1011,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-1-1);display:inline;fill:#fdc422;fill-opacity:0.16;stroke:#000000;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan131"><tspan
+               id="tspan45"><tspan
                  style="fill:#1a1a1a;fill-opacity:1;stroke:none"
-                 id="tspan130">C</tspan></tspan></text><circle
+                 id="tspan44">C</tspan></tspan></text><circle
              style="fill:#fdc422;fill-opacity:1;stroke:#a57b2e;stroke-width:0.864456;stroke-opacity:1"
              id="path2-7-7-1-3-6-6"
              cx="146.88852"
@@ -1035,7 +1025,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-8-1-1);display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan132">H</tspan></text><g
+               id="tspan46">H</tspan></text><g
              id="g3-9-2"
              transform="matrix(0.1,0,0,-0.1,-175.03101,343.43361)"
              style="fill:#000000;stroke:none"><circle
@@ -1051,7 +1041,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-52-3);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                  x="618.79062"
                  y="103.6844"
-                 id="tspan133">H</tspan></text></g><g
+                 id="tspan47">H</tspan></text></g><g
              id="g5-5-2"
              transform="matrix(0.1,0,0,-0.1,-173.77988,346.64091)"
              style="fill:#000000;stroke:none"><circle
@@ -1067,7 +1057,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-7-8);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                  x="618.79062"
                  y="103.6844"
-                 id="tspan134">H</tspan></text></g><g
+                 id="tspan48">H</tspan></text></g><g
              id="g4-2-5"
              transform="matrix(0.1,0,0,-0.1,-174.01817,343.86418)"
              style="fill:#000000;stroke:none"><circle
@@ -1083,7 +1073,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-4-6-7);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                  x="618.79062"
                  y="103.6844"
-                 id="tspan135">H</tspan></text></g></g><rect
+                 id="tspan49">H</tspan></text></g></g><rect
            style="fill:none;fill-opacity:1;stroke:#a57b2e;stroke-width:1.65;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"
            id="rect17"
            width="26.419088"
@@ -1127,92 +1117,92 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            id="path19-3"
            sodipodi:nodetypes="cccc" /></g><text
          xml:space="preserve"
-         transform="matrix(0.59537275,2.7625226e-8,-2.7625226e-8,0.59537275,159.35058,-10.491571)"
+         transform="matrix(0.59537275,2.7625226e-8,-2.7625226e-8,0.59537275,158.82025,-20.567843)"
          id="text1-6"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.1554px;line-height:0.7;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect1-0);clip-rule:evenodd;display:inline;fill:#4ca4e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.5387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.1554px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect1-0);clip-rule:evenodd;display:inline;fill:#4ca4e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.5387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          x="-132.93044"
          y="0"><tspan
            x="218.56704"
-           y="368.52835"
-           id="tspan139"><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle"
-             id="tspan136">E</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;text-align:center;baseline-shift:sub;text-anchor:middle"
-             id="tspan137">i</tspan><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle"
-             id="tspan138"> = [1 x 2]
+           y="370.54389"
+           id="tspan53"><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
+             id="tspan50">E</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;baseline-shift:sub;text-anchor:middle"
+             id="tspan51">i</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
+             id="tspan52"> = [1 x 2]
 </tspan></tspan><tspan
            x="253.57416"
-           y="382.63711"
-           id="tspan142"><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#000000"
-             id="tspan140">+</tspan><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle"
-             id="tspan141">
+           y="388.68375"
+           id="tspan56"><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan54">+</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
+             id="tspan55">
 </tspan></tspan><tspan
            x="214.36799"
-           y="396.74588"
-           id="tspan146"><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan143">X</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;text-align:center;baseline-shift:sub;text-anchor:middle;fill:#a57b2e"
-             id="tspan144">H</tspan><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan145"> = [1 x 3]
+           y="406.82361"
+           id="tspan60"><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
+             id="tspan57">X</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;baseline-shift:sub;text-anchor:middle;fill:#a57b2e"
+             id="tspan58">H</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
+             id="tspan59"> = [1 x 3]
 </tspan></tspan><tspan
            x="253.57416"
-           y="410.85464"
-           id="tspan149"><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#000000"
-             id="tspan147">+</tspan><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan148">
+           y="424.96347"
+           id="tspan63"><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan61">+</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
+             id="tspan62">
 </tspan></tspan><tspan
            x="214.36799"
-           y="424.9634"
-           id="tspan154"><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan150">X</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;text-align:center;baseline-shift:sub;text-anchor:middle;fill:#a57b2e"
-             id="tspan151">C</tspan><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan152"> = [1 x 3]</tspan><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle"
-             id="tspan153">
+           y="443.10333"
+           id="tspan68"><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
+             id="tspan64">X</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;baseline-shift:sub;text-anchor:middle;fill:#a57b2e"
+             id="tspan65">C</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
+             id="tspan66"> = [1 x 3]</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
+             id="tspan67">
 </tspan></tspan><tspan
            x="253.57416"
-           y="439.07217"
-           id="tspan157"><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#000000"
-             id="tspan155">+</tspan><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle"
-             id="tspan156">
+           y="461.2432"
+           id="tspan71"><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan69">+</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
+             id="tspan70">
 </tspan></tspan><tspan
            x="219.96946"
-           y="453.18093"
-           id="tspan160"><tspan
-             style="font-weight:normal;text-align:center;text-anchor:middle;fill:#cc3f35"
-             id="tspan158">U = [1 x 1]</tspan><tspan
-             style="font-size:16.7962px;text-align:center;text-anchor:middle"
-             id="tspan159"> </tspan></tspan></text><text
+           y="479.38306"
+           id="tspan74"><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#cc3f35"
+             id="tspan72">U = [1 x 1]</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
+             id="tspan73"> </tspan></tspan></text><text
          xml:space="preserve"
          transform="matrix(0.75,0,0,0.75,-20.497709,-1.6330467)"
          id="text40"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.7;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect40);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
            x="483.79792"
            y="314.33751"
-           id="tspan162"><tspan
+           id="tspan76"><tspan
              style="font-weight:normal"
-             id="tspan161">= [ 1 x 9 ]</tspan></tspan></text><text
+             id="tspan75">= [ 1 x 9 ]</tspan></tspan></text><text
          xml:space="preserve"
          transform="matrix(0.75,0,0,0.75,130.26808,-2.0995982)"
          id="text40-9"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.7;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect40-2);display:inline;fill:#4ea7e2;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
            x="479.29781"
            y="314.33751"
-           id="tspan164">E<tspan
+           id="tspan78">E<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan163">i,new</tspan> = [ 1 x 2 ]</tspan></text><g
+   id="tspan77">i,new</tspan> = [ 1 x 2 ]</tspan></text><g
          id="g45"
          transform="translate(-30.159885,-1.7841841)"><rect
            style="fill:#000000;fill-opacity:0.142157;stroke:#00441b;stroke-width:0.815418;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"
@@ -1229,9 +1219,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0.7;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect42);display:inline;fill:#000000;fill-opacity:0.289216;stroke:#00441b;stroke-width:1.33333;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
              x="606.87988"
              y="296.27184"
-             id="tspan166"><tspan
+             id="tspan80"><tspan
                style="fill-opacity:1;stroke:none"
-               id="tspan165">MLP</tspan></tspan></text></g></g></g><g
+               id="tspan79">MLP</tspan></tspan></text></g></g></g><g
      id="g48-2"
      transform="translate(6.9457245,141.7542)"><text
        xml:space="preserve"
@@ -1242,9 +1232,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
        y="0"><tspan
          x="80.425781"
          y="39.420664"
-         id="tspan168"><tspan
+         id="tspan82"><tspan
            style="font-weight:bold"
-           id="tspan167">b) Node data</tspan></tspan></text><g
+           id="tspan81">b) Node data</tspan></tspan></text><g
        id="g47-3"
        transform="translate(0,11.361478)"><g
          id="g8-1-8"
@@ -1272,9 +1262,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-1-6);display:inline;fill:#fdc422;fill-opacity:0.16;stroke:#000000;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="618.79062"
              y="103.6844"
-             id="tspan170"><tspan
+             id="tspan84"><tspan
                style="fill:#1a1a1a;fill-opacity:1;stroke:none"
-               id="tspan169">C</tspan></tspan></text><circle
+               id="tspan83">C</tspan></tspan></text><circle
            style="fill:#fdc422;fill-opacity:1;stroke:#a57b2e;stroke-width:0.864456;stroke-opacity:1"
            id="path2-7-7-1-3-6-8"
            cx="146.88852"
@@ -1286,7 +1276,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-8-1-5);display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="618.79062"
              y="103.6844"
-             id="tspan171">H</tspan></text><g
+             id="tspan85">H</tspan></text><g
            id="g3-9-1"
            transform="matrix(0.1,0,0,-0.1,-175.03101,343.43361)"
            style="fill:#000000;stroke:none"><circle
@@ -1302,7 +1292,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-52-7);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan172">H</tspan></text></g><g
+               id="tspan86">H</tspan></text></g><g
            id="g5-5-6"
            transform="matrix(0.1,0,0,-0.1,-173.77988,346.64091)"
            style="fill:#000000;stroke:none"><circle
@@ -1318,7 +1308,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-7-5);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan173">H</tspan></text></g><g
+               id="tspan87">H</tspan></text></g><g
            id="g4-2-8"
            transform="matrix(0.1,0,0,-0.1,-174.01817,343.86418)"
            style="fill:#000000;stroke:none"><circle
@@ -1334,7 +1324,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-4-6-4);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan174">H</tspan></text></g></g><path
+               id="tspan88">H</tspan></text></g></g><path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.17743;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-1)"
          d="m 116.94328,229.76511 -17.885893,0.0939"
          id="path9-1"
@@ -1348,19 +1338,19 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
          y="0"><tspan
            x="216.23524"
            y="305.90699"
-           id="tspan176"><tspan
+           id="tspan90"><tspan
              style="font-size:14.6667px"
-             id="tspan175">node of interest
+             id="tspan89">node of interest
 </tspan></tspan><tspan
-           x="216.4465"
+           x="231.93677"
            y="324.30699"
-           id="tspan180"><tspan
+           id="tspan94"><tspan
              style="font-size:14.6667px"
-             id="tspan177">X</tspan><tspan
+             id="tspan91">X</tspan><tspan
              style="font-size:14.6667px;baseline-shift:sub"
-             id="tspan178">i,new</tspan><tspan
+             id="tspan92">i</tspan><tspan
              style="font-size:14.6667px"
-             id="tspan179"> = [1 x 2]</tspan></tspan></text></g><g
+             id="tspan93"> = [1 x 3]</tspan></tspan></text></g><g
        id="g46-8"
        transform="translate(-10.185676,7.6392571)"><path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.11583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-0)"
@@ -1374,24 +1364,19 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
          inkscape:connector-type="polyline"
          inkscape:connector-curvature="0" /><text
          xml:space="preserve"
-         transform="matrix(0.75,0,0,0.75,147.48289,-10.872835)"
+         transform="matrix(0.75,0,0,0.75,148.98289,0.377165)"
          id="text15-9-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.15;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15-5-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
            x="383.33568"
            y="281.97385"
-           id="tspan182">Information for node (X<tspan
+           id="tspan96">Information for node (X<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan181">i</tspan>) </tspan><tspan
-           x="385.22899"
+   id="tspan95">i</tspan>) </tspan><tspan
+           x="379.242"
            y="298.84055"
-           id="tspan185">is <tspan
+           id="tspan98">is <tspan
    style="font-weight:bold"
-   id="tspan183">updated</tspan> <tspan
-   style="font-weight:bold"
-   id="tspan184">again</tspan> using </tspan><tspan
-           x="436.69851"
-           y="315.70725"
-           id="tspan186">an MLP </tspan></text><g
+   id="tspan97">updated</tspan> using an MLP </tspan></text><g
          id="g21-7"
          transform="matrix(0.61501975,0,0,0.61501975,89.024156,76.909081)"><g
            id="g8-1-4-1"
@@ -1419,9 +1404,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-1-1-1);display:inline;fill:#fdc422;fill-opacity:0.16;stroke:#000000;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan188"><tspan
+               id="tspan100"><tspan
                  style="fill:#1a1a1a;fill-opacity:1;stroke:none"
-                 id="tspan187">C</tspan></tspan></text><circle
+                 id="tspan99">C</tspan></tspan></text><circle
              style="fill:#fdc422;fill-opacity:1;stroke:#a57b2e;stroke-width:0.864456;stroke-opacity:1"
              id="path2-7-7-1-3-6-6-5"
              cx="146.88852"
@@ -1433,7 +1418,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-8-1-1-7);display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan189">H</tspan></text><g
+               id="tspan101">H</tspan></text><g
              id="g3-9-2-0"
              transform="matrix(0.1,0,0,-0.1,-175.03101,343.43361)"
              style="fill:#000000;stroke:none"><circle
@@ -1449,7 +1434,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-52-3-7);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                  x="618.79062"
                  y="103.6844"
-                 id="tspan190">H</tspan></text></g><g
+                 id="tspan102">H</tspan></text></g><g
              id="g5-5-2-6"
              transform="matrix(0.1,0,0,-0.1,-173.77988,346.64091)"
              style="fill:#000000;stroke:none"><circle
@@ -1465,7 +1450,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-7-8-7);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                  x="618.79062"
                  y="103.6844"
-                 id="tspan191">H</tspan></text></g><g
+                 id="tspan103">H</tspan></text></g><g
              id="g4-2-5-4"
              transform="matrix(0.1,0,0,-0.1,-174.01817,343.86418)"
              style="fill:#000000;stroke:none"><circle
@@ -1481,7 +1466,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-4-6-7-7);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                  x="618.79062"
                  y="103.6844"
-                 id="tspan192">H</tspan></text></g></g><rect
+                 id="tspan104">H</tspan></text></g></g><rect
            style="fill:none;fill-opacity:1;stroke:#cc3f35;stroke-width:1.65;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"
            id="rect18-2"
            width="87.214851"
@@ -1525,89 +1510,89 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
          xml:space="preserve"
          transform="matrix(0.59537275,2.7625226e-8,-2.7625226e-8,0.59537275,153.51695,-17.916193)"
          id="text1-6-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.1554px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect1-0-9);clip-rule:evenodd;display:inline;fill:#4ca4e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.5387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.1554px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;white-space:pre;shape-inside:url(#rect1-0-9);clip-rule:evenodd;display:inline;fill:#a57b2e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.5387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          x="-132.93044"
          y="0"><tspan
            x="221.45157"
            y="369.53612"
-           id="tspan203"><tspan
+           id="tspan115"><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#4ea7e2"
+             id="tspan105">E = E</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub;fill:#4ea7e2"
+             id="tspan106">1</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#4ea7e2"
+             id="tspan107"> + E</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub;fill:#4ea7e2"
+             id="tspan108">2</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#4ea7e2"
+             id="tspan109"> + E</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub;fill:#4ea7e2"
+             id="tspan110">3 </tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#4ea7e2"
+             id="tspan111">+ E</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub;fill:#4ea7e2"
+             id="tspan112">4 </tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#4ea7e2"
+             id="tspan113">= [1 x 2]</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan193">E = E</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
-             id="tspan194">1</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan195"> + E</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
-             id="tspan196">2</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan197"> + E</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
-             id="tspan198">3 </tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan199">+ E</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
-             id="tspan200">4 </tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan201">= [1 x 2]</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan202">
+             id="tspan114">
 </tspan></tspan><tspan
            x="333.96478"
            y="385.66044"
-           id="tspan206"><tspan
+           id="tspan118"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#000000"
-             id="tspan204">+</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan205">
-</tspan></tspan><tspan
-           x="281.21832"
-           y="401.78477"
-           id="tspan211"><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan207">X</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
-             id="tspan208">i,new</tspan><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan209"> = [1 x 2]</tspan><tspan
+             id="tspan116">+</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan210">
+             id="tspan117">
+</tspan></tspan><tspan
+           x="298.95766"
+           y="401.78477"
+           id="tspan122"><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
+             id="tspan119">X</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
+             id="tspan120">i</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
+             id="tspan121"> = [1 x 3]
 </tspan></tspan><tspan
            x="333.96478"
            y="417.9091"
-           id="tspan214"><tspan
+           id="tspan125"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#000000"
-             id="tspan212">+</tspan><tspan
+             id="tspan123">+</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan213">
+             id="tspan124">
 </tspan></tspan><tspan
            x="300.36008"
            y="434.03343"
-           id="tspan216"><tspan
-             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#cc3f35"
-             id="tspan215">U = [1 x 1]
+           id="tspan128"><tspan
+             style="fill:#cc3f35"
+             id="tspan126">U = [1 x 1]</tspan><tspan
+             style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
+             id="tspan127">
 </tspan></tspan><tspan
            x="331.63152"
            y="450.15776"
-           id="tspan218"><tspan
+           id="tspan130"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';fill:#000000"
-             id="tspan217">= 
+             id="tspan129">= 
 </tspan></tspan><tspan
            x="311.32928"
            y="466.28209"
-           id="tspan221"><tspan
+           id="tspan133"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';fill:#000000"
-             id="tspan219">[ 1 x 5 ]</tspan><tspan
+             id="tspan131">[ 1 x 6 ]</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan220"> </tspan></tspan></text><text
+             id="tspan132"> </tspan></tspan></text><text
          xml:space="preserve"
          transform="matrix(0.75,0,0,0.75,114.09301,22.825915)"
          id="text40-9-3"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.7;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect40-2-1);display:inline;fill:#a57b2e;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
            x="488.04781"
            y="314.33751"
-           id="tspan223">X<tspan
+           id="tspan135">X<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan222">i,new</tspan> = [ 1 x 2 ]</tspan></text><g
+   id="tspan134">i,new</tspan> = [ 1 x 2 ]</tspan></text><g
          id="g45-8"
          transform="translate(-38.910332,23.200045)"><rect
            style="fill:#000000;fill-opacity:0.142157;stroke:#00441b;stroke-width:0.815418;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"
@@ -1624,9 +1609,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0.7;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect42-8);display:inline;fill:#000000;fill-opacity:0.289216;stroke:#00441b;stroke-width:1.33333;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
              x="606.87988"
              y="296.27184"
-             id="tspan225"><tspan
+             id="tspan137"><tspan
                style="fill-opacity:1;stroke:none"
-               id="tspan224">MLP</tspan></tspan></text></g></g><text
+               id="tspan136">MLP</tspan></tspan></text></g></g><text
        xml:space="preserve"
        transform="matrix(0.75,0,0,0.75,-10.941899,282.16664)"
        id="text2-4-4-6-9"
@@ -1635,9 +1620,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
        y="0"><tspan
          x="80.425781"
          y="39.420664"
-         id="tspan227"><tspan
+         id="tspan139"><tspan
            style="font-weight:bold"
-           id="tspan226">c) Global data</tspan></tspan></text><text
+           id="tspan138">c) Global data</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.75,0,0,0.75,-62.235301,127.76303)"
        id="text10-4-5"
@@ -1646,17 +1631,17 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
        y="0"><tspan
          x="247.21578"
          y="305.90699"
-         id="tspan229"><tspan
+         id="tspan141"><tspan
            style="font-size:14.6667px"
-           id="tspan228">global
+           id="tspan140">global
 </tspan></tspan><tspan
          x="233.16138"
          y="324.30699"
-         id="tspan232"><tspan
+         id="tspan144"><tspan
            style="font-size:14.6667px"
-           id="tspan230">U</tspan><tspan
+           id="tspan142">U</tspan><tspan
            style="font-size:14.6667px"
-           id="tspan231"> = [1 x 1]</tspan></tspan></text><g
+           id="tspan143"> = [1 x 1]</tspan></tspan></text><g
        id="g46-8-6"
        transform="translate(-10.765799,134.35544)"><path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.11583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-9-0-6)"
@@ -1675,20 +1660,20 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.15;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15-5-7-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.2;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
            x="390.89751"
            y="281.97385"
-           id="tspan235">After <tspan
+           id="tspan147">After <tspan
    style="font-weight:bold"
-   id="tspan233">preparing</tspan> and <tspan
+   id="tspan145">preparing</tspan> and <tspan
    style="font-weight:bold"
-   id="tspan234">aggregating</tspan> the </tspan><tspan
-           x="379.42482"
+   id="tspan146">aggregating</tspan> the </tspan><tspan
+           x="383.0915"
            y="298.84055"
-           id="tspan236">global and proccessed node &amp; edge data </tspan><tspan
+           id="tspan148">global and processed node &amp; edge data </tspan><tspan
            x="377.81707"
            y="315.70725"
-           id="tspan237">(sum), the global feature is updated using </tspan><tspan
+           id="tspan149">(sum), the global feature is updated using </tspan><tspan
            x="487.60964"
            y="332.57395"
-           id="tspan238">an MLP </tspan></text><text
+           id="tspan150">an MLP </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.59537275,2.7625226e-8,-2.7625226e-8,0.59537275,64.156331,-13.143222)"
          id="text1-6-7-6"
@@ -1697,100 +1682,100 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
          y="0"><tspan
            x="221.45157"
            y="369.53612"
-           id="tspan249"><tspan
+           id="tspan161"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan239">E = E</tspan><tspan
+             id="tspan151">E = E</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
-             id="tspan240">1</tspan><tspan
+             id="tspan152">1</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan241"> + E</tspan><tspan
+             id="tspan153"> + E</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
-             id="tspan242">2</tspan><tspan
+             id="tspan154">2</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan243"> + E</tspan><tspan
+             id="tspan155"> + E</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
-             id="tspan244">3 </tspan><tspan
+             id="tspan156">3 </tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan245">+ E</tspan><tspan
+             id="tspan157">+ E</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';baseline-shift:sub"
-             id="tspan246">4 </tspan><tspan
+             id="tspan158">4 </tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan247">= [1 x 2]</tspan><tspan
+             id="tspan159">= [1 x 2]</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan248">
+             id="tspan160">
 </tspan></tspan><tspan
            x="333.96478"
            y="385.66044"
-           id="tspan252"><tspan
+           id="tspan164"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#000000"
-             id="tspan250">+</tspan><tspan
+             id="tspan162">+</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan251">
+             id="tspan163">
 </tspan></tspan><tspan
-           x="205.25098"
+           x="201.30889"
            y="401.78477"
-           id="tspan265"><tspan
+           id="tspan177"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan253">X = X</tspan><tspan
-             style="font-size:65%;baseline-shift:sub"
-             id="tspan254">H</tspan><tspan
+             id="tspan165">X = X</tspan><tspan
+             style="font-size:65%;baseline-shift:sub;fill:#a57b2e"
+             id="tspan166">H</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan255"> + X</tspan><tspan
-             style="font-size:65%;baseline-shift:sub"
-             id="tspan256">C</tspan><tspan
+             id="tspan167"> + X</tspan><tspan
+             style="font-size:65%;baseline-shift:sub;fill:#a57b2e"
+             id="tspan168">C</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan257"> + X</tspan><tspan
-             style="font-size:65%;baseline-shift:sub"
-             id="tspan258">H</tspan><tspan
+             id="tspan169"> + X</tspan><tspan
+             style="font-size:65%;baseline-shift:sub;fill:#a57b2e"
+             id="tspan170">H</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan259"> + X</tspan><tspan
-             style="font-size:65%;baseline-shift:sub"
-             id="tspan260">H</tspan><tspan
+             id="tspan171"> + X</tspan><tspan
+             style="font-size:65%;baseline-shift:sub;fill:#a57b2e"
+             id="tspan172">H</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan261"> + X</tspan><tspan
-             style="font-size:65%;baseline-shift:sub"
-             id="tspan262">H</tspan><tspan
+             id="tspan173"> + X</tspan><tspan
+             style="font-size:65%;baseline-shift:sub;fill:#a57b2e"
+             id="tspan174">H</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#a57b2e"
-             id="tspan263"> = [1 x 2]</tspan><tspan
+             id="tspan175"> = [1 x 2]</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan264">
+             id="tspan176">
 </tspan></tspan><tspan
            x="333.96478"
            y="417.9091"
-           id="tspan268"><tspan
+           id="tspan180"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#000000"
-             id="tspan266">+</tspan><tspan
+             id="tspan178">+</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan267">
+             id="tspan179">
 </tspan></tspan><tspan
            x="300.36008"
            y="434.03343"
-           id="tspan270"><tspan
+           id="tspan182"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle;fill:#cc3f35"
-             id="tspan269">U = [1 x 1]
+             id="tspan181">U = [1 x 1]
 </tspan></tspan><tspan
            x="331.63152"
            y="450.15776"
-           id="tspan272"><tspan
+           id="tspan184"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';fill:#000000"
-             id="tspan271">= 
+             id="tspan183">= 
 </tspan></tspan><tspan
            x="311.32928"
            y="466.28209"
-           id="tspan275"><tspan
+           id="tspan187"><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';fill:#000000"
-             id="tspan273">[ 1 x 5 ]</tspan><tspan
+             id="tspan185">[ 1 x 5 ]</tspan><tspan
              style="font-weight:normal;font-size:16.7962px;-inkscape-font-specification:'Arial, Normal';text-align:center;text-anchor:middle"
-             id="tspan274"> </tspan></tspan></text><text
+             id="tspan186"> </tspan></tspan></text><text
          xml:space="preserve"
          transform="matrix(0.75,0,0,0.75,32.157012,30.780866)"
          id="text40-9-3-1"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.7;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect40-2-1-0);display:inline;fill:#cc3f35;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
            x="490.08784"
            y="314.33751"
-           id="tspan277">U<tspan
+           id="tspan189">U<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan276">new</tspan> = [ 1 x 2 ]</tspan></text><g
+   id="tspan188">new</tspan> = [ 1 x 2 ]</tspan></text><g
          id="g45-8-2"
          transform="translate(-120.58116,27.442686)"><rect
            style="fill:#000000;fill-opacity:0.142157;stroke:#00441b;stroke-width:0.815418;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"
@@ -1807,9 +1792,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0.7;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect42-8-3);display:inline;fill:#000000;fill-opacity:0.289216;stroke:#00441b;stroke-width:1.33333;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"><tspan
              x="606.87988"
              y="296.27184"
-             id="tspan279"><tspan
+             id="tspan191"><tspan
                style="fill-opacity:1;stroke:none"
-               id="tspan278">MLP</tspan></tspan></text></g><g
+               id="tspan190">MLP</tspan></tspan></text></g><g
          id="g21-7-3-8"
          transform="matrix(0.61501975,0,0,0.61501975,-68.605328,78.663678)"><g
            id="g8-1-4-1-5-2"
@@ -1837,9 +1822,9 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-1-1-1-9-4);display:inline;fill:#fdc422;fill-opacity:0.16;stroke:#000000;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan281"><tspan
+               id="tspan193"><tspan
                  style="fill:#1a1a1a;fill-opacity:1;stroke:none"
-                 id="tspan280">C</tspan></tspan></text><circle
+                 id="tspan192">C</tspan></tspan></text><circle
              style="fill:#fdc422;fill-opacity:1;stroke:#a57b2e;stroke-width:0.864456;stroke-opacity:1"
              id="path2-7-7-1-3-6-6-5-4-4"
              cx="146.88852"
@@ -1851,7 +1836,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-8-1-1-7-2-4);display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="618.79062"
                y="103.6844"
-               id="tspan282">H</tspan></text><g
+               id="tspan194">H</tspan></text><g
              id="g3-9-2-0-1-1"
              transform="matrix(0.1,0,0,-0.1,-175.03101,343.43361)"
              style="fill:#000000;stroke:none"><circle
@@ -1867,7 +1852,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-52-3-7-4-4);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                  x="618.79062"
                  y="103.6844"
-                 id="tspan283">H</tspan></text></g><g
+                 id="tspan195">H</tspan></text></g><g
              id="g5-5-2-6-5-5"
              transform="matrix(0.1,0,0,-0.1,-173.77988,346.64091)"
              style="fill:#000000;stroke:none"><circle
@@ -1883,7 +1868,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-7-8-7-6-4);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                  x="618.79062"
                  y="103.6844"
-                 id="tspan284">H</tspan></text></g><g
+                 id="tspan196">H</tspan></text></g><g
              id="g4-2-5-4-8-2"
              transform="matrix(0.1,0,0,-0.1,-174.01817,343.86418)"
              style="fill:#000000;stroke:none"><circle
@@ -1899,7 +1884,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8253px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect9-7-5-4-6-7-7-1-2);display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:2.06667;stroke-dasharray:none;stroke-opacity:1"><tspan
                  x="618.79062"
                  y="103.6844"
-                 id="tspan285">H</tspan></text></g></g><rect
+                 id="tspan197">H</tspan></text></g></g><rect
            style="fill:none;fill-opacity:1;stroke:#cc3f35;stroke-width:1.65;stroke-dasharray:none;stroke-dashoffset:4.66667;stroke-opacity:1"
            id="rect18-2-6-7"
            width="87.214851"
