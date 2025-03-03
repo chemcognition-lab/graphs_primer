@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 notebooks/G6P_w_hydrogen_graph.json
 *.json
+figures/ConnectivityG6P_Fig5.svg.2025_03_03_10_58_11.0.svg
