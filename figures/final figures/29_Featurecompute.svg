@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
-   sodipodi:docname="Feature compute MW.svg"
+   sodipodi:docname="29_Featurecompute.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0116647"
-     inkscape:cx="393.411"
-     inkscape:cy="341.51633"
+     inkscape:zoom="1.4307099"
+     inkscape:cx="408.18896"
+     inkscape:cy="177.18476"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -36,11 +36,11 @@
      id="defs1">
     <marker
        style="overflow:visible"
-       id="DartArrow"
+       id="Triangle"
        refX="0"
        refY="0"
        orient="auto-start-reverse"
-       inkscape:stockid="Dart arrow"
+       inkscape:stockid="Triangle arrow"
        markerWidth="1"
        markerHeight="1"
        viewBox="0 0 1 1"
@@ -48,10 +48,10 @@
        inkscape:collect="always"
        preserveAspectRatio="xMidYMid">
       <path
-         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         transform="scale(-0.5)"
-         id="path69" />
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
     </marker>
     <clipPath
        id="p587ec55e46-9-3-0">
@@ -80,44 +80,6 @@
          height="432.43201"
          id="rect2" />
     </clipPath>
-    <marker
-       style="overflow:visible"
-       id="marker230"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Dart arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         transform="scale(-0.5)"
-         id="path6" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker230-4"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Dart arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         transform="scale(-0.5)"
-         id="path6-8" />
-    </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -127,17 +89,17 @@
        class="cls-4"
        id="text6"
        x="86.428658"
-       y="19.259317"
+       y="25.140728"
        style="font-size:4.23333px;font-family:Roboto-Regular, Roboto;fill:#b3b3b3;stroke-width:0.264583"><tspan
          sodipodi:role="line"
          id="tspan124"
          x="86.428658"
-         y="19.259317"
+         y="25.140728"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583">Extracting</tspan><tspan
          sodipodi:role="line"
          id="tspan125"
          x="86.428658"
-         y="24.660007"
+         y="30.541418"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583">relevant information</tspan></text>
     <text
        class="cls-4"
@@ -217,15 +179,15 @@
        xml:space="preserve"><tspan
          x="657.15216"
          y="167.33305"
-         id="tspan12"><tspan
+         id="tspan2"><tspan
    style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000"
-   id="tspan11">Feature </tspan>
+   id="tspan1">Feature </tspan>
 </tspan><tspan
          x="657.15216"
          y="187.74514"
-         id="tspan14"><tspan
+         id="tspan4"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000"
-           id="tspan13">computation</tspan></tspan></text>
+           id="tspan3">computation</tspan></tspan></text>
     <text
        class="cls-4"
        id="text6-4"
@@ -269,11 +231,11 @@
        class="cls-4"
        id="text194"
        x="86.81958"
-       y="33.783764"
+       y="50.067738"
        style="font-size:4.23333px;font-family:Roboto-Regular, Roboto;fill:#b3b3b3;stroke-width:0.264583"><tspan
          sodipodi:role="line"
          x="86.81958"
-         y="33.783764"
+         y="50.067738"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
          id="tspan196">𝑤<tspan
    style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583"
@@ -300,7 +262,7 @@
        x2="46.921822"
        y2="40.302708"
        id="line218"
-       style="fill:none;stroke:#000000;stroke-width:0.582083;stroke-miterlimit:10;stroke-dasharray:none;marker-start:url(#DartArrow)" />
+       style="fill:none;stroke:#000000;stroke-width:0.582083;stroke-miterlimit:10;stroke-dasharray:none;marker-start:url(#Triangle)" />
     <text
        class="cls-4"
        id="text219"
@@ -324,36 +286,36 @@
        clip-path="url(#p587ec55e46-9-3-0)"
        style="fill:#fec958;fill-opacity:1;stroke:#ffffff;stroke-width:1.00904;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        id="path119-9"
-       transform="matrix(-0.27925977,0,0,-0.27925977,188.95349,47.957419)" />
+       transform="matrix(-0.27925977,0,0,-0.27925977,188.95349,44.398877)" />
     <path
        d="m 333.68031,33.264 h 33.48 V 0 h -33.48 z"
        clip-path="url(#p587ec55e46-9-3-0)"
        style="fill:#a57b2e;fill-opacity:1;stroke:none;stroke-width:1.00904;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        id="path132-3"
-       transform="matrix(-0.27925977,0,0,-0.27925977,188.95349,47.957419)" />
+       transform="matrix(-0.27925977,0,0,-0.27925977,188.95349,44.398877)" />
     <path
        d="m 367.16031,33.264 h 33.48 V 0 h -33.48 z"
        clip-path="url(#p587ec55e46-9-3-0)"
        style="fill:#fec958;fill-opacity:1;stroke:#ffffff;stroke-width:1.00904;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        id="path145-4"
-       transform="matrix(-0.27925977,0,0,-0.27925977,188.95349,47.957419)" />
+       transform="matrix(-0.27925977,0,0,-0.27925977,188.95349,44.398877)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.393909;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-dashoffset:347.311;stroke-opacity:1"
        id="rect260-2"
        width="28.277973"
        height="9.7212715"
        x="-105.23419"
-       y="-48.173389"
+       y="-44.614849"
        transform="scale(-1)" />
     <text
        class="cls-4"
        id="text227"
        x="71.182205"
-       y="45.093792"
+       y="41.535252"
        style="font-size:4.23333px;font-family:Roboto-Regular, Roboto;fill:#a57b2e;fill-opacity:1;stroke-width:0.264583"><tspan
          sodipodi:role="line"
          x="71.182205"
-         y="45.093792"
+         y="41.535252"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#a57b2e;fill-opacity:1;stroke-width:0.264583"
          id="tspan227">X =</tspan></text>
     <line
@@ -363,7 +325,7 @@
        x2="144.74059"
        y2="40.063129"
        id="line229"
-       style="fill:none;stroke:#000000;stroke-width:0.617802;stroke-miterlimit:10;stroke-dasharray:none;marker-end:url(#marker230)" />
+       style="fill:none;stroke:#000000;stroke-width:0.617802;stroke-miterlimit:10;stroke-dasharray:none;marker-end:url(#Triangle)" />
     <line
        class="cls-18"
        x1="131.66553"
@@ -371,7 +333,7 @@
        x2="144.92244"
        y2="44.228344"
        id="line229-7"
-       style="fill:none;stroke:#000000;stroke-width:0.617802;stroke-miterlimit:10;stroke-dasharray:none;marker-end:url(#marker230-4)" />
+       style="fill:none;stroke:#000000;stroke-width:0.617802;stroke-miterlimit:10;stroke-dasharray:none;marker-end:url(#Triangle)" />
     <line
        class="cls-18"
        x1="131.66554"
@@ -379,7 +341,7 @@
        x2="144.92244"
        y2="35.836414"
        id="line230"
-       style="fill:none;stroke:#000000;stroke-width:0.617802;stroke-miterlimit:10;stroke-dasharray:none;marker-end:url(#marker230-4)" />
+       style="fill:none;stroke:#000000;stroke-width:0.617802;stroke-miterlimit:10;stroke-dasharray:none;marker-end:url(#Triangle)" />
     <text
        class="cls-4"
        id="text233"
@@ -390,9 +352,9 @@
        xml:space="preserve"><tspan
          x="657.15216"
          y="167.33305"
-         id="tspan16"><tspan
+         id="tspan6"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000"
-           id="tspan15">Sum</tspan></tspan></text>
+           id="tspan5">Sum</tspan></tspan></text>
     <text
        class="cls-4"
        id="text234"
@@ -403,9 +365,9 @@
        xml:space="preserve"><tspan
          x="657.15216"
          y="167.33305"
-         id="tspan18"><tspan
+         id="tspan8"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan17">Mean</tspan></tspan></text>
+           id="tspan7">Mean</tspan></tspan></text>
     <text
        class="cls-4"
        id="text235"
@@ -416,9 +378,9 @@
        xml:space="preserve"><tspan
          x="657.15216"
          y="167.33305"
-         id="tspan20"><tspan
+         id="tspan10"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan19">Max</tspan></tspan></text>
+           id="tspan9">Max</tspan></tspan></text>
     <line
        class="cls-18"
        x1="174.64206"
@@ -426,7 +388,7 @@
        x2="160.78183"
        y2="40.302708"
        id="line235"
-       style="fill:none;stroke:#000000;stroke-width:0.582083;stroke-miterlimit:10;stroke-dasharray:none;marker-start:url(#DartArrow)" />
+       style="fill:none;stroke:#000000;stroke-width:0.582083;stroke-miterlimit:10;stroke-dasharray:none;marker-start:url(#Triangle)" />
     <rect
        style="fill:#fbd5d2;fill-opacity:1;stroke:#c73227;stroke-width:0.393909;stroke-linejoin:bevel;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-dashoffset:347.311;stroke-opacity:1"
        id="rect242"
