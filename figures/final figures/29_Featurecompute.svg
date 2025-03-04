@@ -7,8 +7,11 @@
    viewBox="0 0 215.9 279.4"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="29_Featurecompute.svg"
+   inkscape:export-filename="29_Featurecompute.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,12 +27,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.4307099"
-     inkscape:cx="408.18896"
-     inkscape:cy="177.18476"
-     inkscape:window-width="1854"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="407.83949"
+     inkscape:cy="177.18477"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -179,15 +182,15 @@
        xml:space="preserve"><tspan
          x="657.15216"
          y="167.33305"
-         id="tspan2"><tspan
+         id="tspan12"><tspan
    style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000"
-   id="tspan1">Feature </tspan>
+   id="tspan11">Feature </tspan>
 </tspan><tspan
          x="657.15216"
          y="187.74514"
-         id="tspan4"><tspan
+         id="tspan14"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000"
-           id="tspan3">computation</tspan></tspan></text>
+           id="tspan13">computation</tspan></tspan></text>
     <text
        class="cls-4"
        id="text6-4"
@@ -352,9 +355,9 @@
        xml:space="preserve"><tspan
          x="657.15216"
          y="167.33305"
-         id="tspan6"><tspan
+         id="tspan16"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000"
-           id="tspan5">Sum</tspan></tspan></text>
+           id="tspan15">Sum</tspan></tspan></text>
     <text
        class="cls-4"
        id="text234"
@@ -365,9 +368,9 @@
        xml:space="preserve"><tspan
          x="657.15216"
          y="167.33305"
-         id="tspan8"><tspan
+         id="tspan18"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan7">Mean</tspan></tspan></text>
+           id="tspan17">Mean</tspan></tspan></text>
     <text
        class="cls-4"
        id="text235"
@@ -378,9 +381,9 @@
        xml:space="preserve"><tspan
          x="657.15216"
          y="167.33305"
-         id="tspan10"><tspan
+         id="tspan20"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan9">Max</tspan></tspan></text>
+           id="tspan19">Max</tspan></tspan></text>
     <line
        class="cls-18"
        x1="174.64206"
