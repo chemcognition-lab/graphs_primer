@@ -9,13 +9,13 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import StandardScaler
 
 # For GNN
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-from torch_geometric.nn import GCNConv, global_mean_pool
-from torch_geometric.data import Data, DataLoader
+# import torch
+# import torch.nn as nn
+# import torch.nn.functional as F
+# from torch_geometric.nn import GCNConv, global_mean_pool
+# from torch_geometric.data import Data, DataLoader
 from rdkit import Chem
-from rdkit.Chem import AllChem
+from rdkit.Chem import AllChem, Descriptors, Lipinski
 
 # Set the global font to Arial
 plt.rcParams['font.family'] = 'Arial'
