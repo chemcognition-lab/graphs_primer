@@ -6,7 +6,7 @@
    version="1.1"
    id="svg82"
    sodipodi:docname="27_ChemOnt.svg"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
    inkscape:export-filename="27_ChemOnt.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -29,14 +29,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="0.91638861"
-     inkscape:cx="322.46145"
-     inkscape:cy="129.31195"
-     inkscape:window-width="1920"
-     inkscape:window-height="1129"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:cx="321.91583"
+     inkscape:cy="128.22071"
+     inkscape:window-width="1854"
+     inkscape:window-height="1009"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg82"
+     inkscape:current-layer="g83"
      showguides="true" />
   <metadata
      id="metadata1">
@@ -601,9 +601,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85);display:inline;fill:#000000;stroke:none;stroke-width:6.66667;stroke-dasharray:13.3333, 13.3333;stroke-dashoffset:4.66667"><tspan
          x="514.39844"
          y="94.99957"
-         id="tspan5"><tspan
+         id="tspan2"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan4">1) Chemical entities</tspan></tspan></text>
+           id="tspan1">1) Chemical entities</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.4359122,0,0,1.4359122,-429.85177,-58.210295)"
@@ -611,9 +611,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85-3);display:inline;fill:#000000;stroke:none;stroke-width:6.66667;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:13.3333, 13.3333;stroke-dashoffset:4.66667"><tspan
          x="514.39844"
          y="94.99957"
-         id="tspan7"><tspan
+         id="tspan4"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan6">3) Inorganic compounds</tspan></tspan></text>
+           id="tspan3">3) Inorganic compounds</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.4359122,0,0,1.4359122,-430.33483,-23.9416)"
@@ -621,9 +621,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85-3-0);display:inline;fill:#000000;stroke:none;stroke-width:6.66667;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:13.3333, 13.3333;stroke-dashoffset:4.66667"><tspan
          x="514.39844"
          y="94.99957"
-         id="tspan9"><tspan
+         id="tspan6"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan8">4) Nucleosides, nucleotides, &amp; analogues</tspan></tspan></text>
+           id="tspan5">4) Nucleosides, nucleotides, &amp; analogues</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.4359122,0,0,1.4359122,-430.45264,10.327094)"
@@ -631,9 +631,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85-3-0-0);display:inline;fill:#000000;stroke:none;stroke-width:6.66667;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:13.3333, 13.3333;stroke-dashoffset:4.66667"><tspan
          x="514.39844"
          y="94.99957"
-         id="tspan11"><tspan
+         id="tspan8"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan10">5) Lipids &amp; lipid-like molecules</tspan></tspan></text>
+           id="tspan7">5) Lipids &amp; lipid-like molecules</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.4359122,0,0,1.4359122,-430.51155,44.595788)"
@@ -641,9 +641,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85-3-0-0-0);display:inline;fill:#000000;stroke:none;stroke-width:6.66667;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:13.3333, 13.3333;stroke-dashoffset:4.66667"><tspan
          x="514.39844"
          y="94.99957"
-         id="tspan13"><tspan
+         id="tspan10"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan12">6) Mixed metal/non-metal compounds</tspan></tspan></text>
+           id="tspan9">6) Mixed metal/non-metal compounds</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.4359122,0,0,1.4359122,-430.9357,78.864487)"
@@ -651,9 +651,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85-3-0-0-0-6);display:inline;fill:#000000;stroke:none;stroke-width:6.66667;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:13.3333, 13.3333;stroke-dashoffset:4.66667"><tspan
          x="514.39844"
          y="94.99957"
-         id="tspan15"><tspan
+         id="tspan12"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan14">7) Homogenous metal compounds</tspan></tspan></text>
+           id="tspan11">7) Homogenous metal compounds</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.4359122,0,0,1.4359122,-430.0285,-92.478989)"
@@ -661,9 +661,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85-3-8);display:inline;fill:#000000;stroke:none;stroke-width:6.66667;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:13.3333, 13.3333;stroke-dashoffset:4.66667"><tspan
          x="514.39844"
          y="94.99957"
-         id="tspan17"><tspan
+         id="tspan14"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan16">2) Organic compounds</tspan></tspan></text>
+           id="tspan13">2) Organic compounds</tspan></tspan></text>
   </g>
   <text
      xml:space="preserve"
@@ -672,9 +672,9 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:2.05;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect86);display:inline;fill:#000000;stroke:none;stroke-width:6.66667;stroke-dasharray:13.3333, 13.3333;stroke-dashoffset:4.66667"><tspan
        x="503.58984"
        y="152.56211"
-       id="tspan21"><tspan
+       id="tspan16"><tspan
          dx="0 9.8461609"
-         id="tspan18">2)</tspan></tspan></text>
+         id="tspan15">2)</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.74999999,0,0,0.74999999,-2.6957549e-7,-2.385443e-6)"
@@ -925,7 +925,7 @@
          x="194.35756"
          y="249.30653"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan49">Edges</tspan>: hierarchichal relationship</tspan></text>
+   id="tspan49">Edges</tspan>: hierarchical relationship</tspan></text>
   </g>
   <g
      id="g44"
