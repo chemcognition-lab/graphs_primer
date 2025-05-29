@@ -6,10 +6,10 @@
    version="1.1"
    id="svg100"
    sodipodi:docname="26_TCAcycle.svg"
-   inkscape:export-filename="26_TCACycle.png"
+   inkscape:export-filename="pngs\26_TCAcycle.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -29,12 +29,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="0.93946102"
-     inkscape:cx="101.12181"
+     inkscape:cx="100.58959"
      inkscape:cy="502.94796"
-     inkscape:window-width="1854"
-     inkscape:window-height="1009"
-     inkscape:window-x="66"
-     inkscape:window-y="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg100"
      inkscape:clip-to-page="false"
@@ -4252,9 +4252,9 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.644px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect121);display:inline;fill:#a6d854;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="832.45703"
        y="529.63592"
-       id="tspan18"><tspan
+       id="tspan5"><tspan
          style="font-family:Arial;-inkscape-font-specification:Arial;fill:#0b671b"
-         id="tspan2">A = 11 x 11</tspan></tspan></text><g
+         id="tspan4">A = 11 x 11</tspan></tspan></text><g
      id="g10-7"
      transform="translate(72.719759,225.8878)"
      style="stroke-linecap:butt;stroke-linejoin:round"><g
@@ -4289,9 +4289,9 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.644px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect121-17);display:inline;fill:#0b671b;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="832.45703"
        y="529.63592"
-       id="tspan20"><tspan
+       id="tspan7"><tspan
          style="font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan19">A = 10 x 10</tspan></tspan></text><g
+         id="tspan6">A = 10 x 10</tspan></tspan></text><g
      id="figure_1-4"
      style="stroke-linecap:butt;stroke-linejoin:round"
      transform="matrix(0.67896405,0,0,0.67896405,344.25429,403.95762)"><g
@@ -5133,7 +5133,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect149);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.21733;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
        x="453.79037"
        y="204.44493"
-       id="tspan21">8</tspan></text><use
+       id="tspan8">8</tspan></text><use
      x="0"
      y="0"
      xlink:href="#path148"
@@ -5609,7 +5609,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect149-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.21733;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="453.79037"
          y="204.44493"
-         id="tspan22">8</tspan></text><use
+         id="tspan9">8</tspan></text><use
        x="0"
        y="0"
        xlink:href="#path148-3"
@@ -5658,9 +5658,9 @@
        y="0"><tspan
          x="873.00246"
          y="529.63592"
-         id="tspan24"><tspan
+         id="tspan11"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan23">E = 15 X 2</tspan></tspan></text><g
+           id="tspan10">E = 15 X 2</tspan></tspan></text><g
        id="g243-9-8"
        style="stroke-linecap:butt;stroke-linejoin:round"
        transform="matrix(0.24632058,0,0,0.24632058,-37.465988,305.73243)"><!--  15 edges --><g
@@ -6215,9 +6215,9 @@
        y="0"><tspan
          x="874.13964"
          y="529.63592"
-         id="tspan26"><tspan
+         id="tspan13"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial;fill:#9f660a"
-           id="tspan25">X = 11 X 2</tspan></tspan></text><g
+           id="tspan12">X = 11 X 2</tspan></tspan></text><g
        id="g243-9"
        style="stroke-linecap:butt;stroke-linejoin:round"
        transform="matrix(0.24632058,0,0,0.24632058,-37.630134,252.47309)"><!--  15 edges --><g
@@ -6500,9 +6500,9 @@
        y="0"><tspan
          x="873.00246"
          y="529.63592"
-         id="tspan28"><tspan
+         id="tspan15"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial;fill:#9f660a"
-           id="tspan27">X = 10 X 2</tspan></tspan></text></g><g
+           id="tspan14">X = 10 X 2</tspan></tspan></text></g><g
      id="g4"
      transform="translate(-40.644332,-7.9030645)"><g
        id="g80"
@@ -6788,6 +6788,6 @@
        y="0"><tspan
          x="873.00246"
          y="529.63592"
-         id="tspan30"><tspan
+         id="tspan17"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan29">E = 13 X 2</tspan></tspan></text></g></svg>
+           id="tspan16">E = 13 X 2</tspan></tspan></text></g></svg>
