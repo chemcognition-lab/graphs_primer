@@ -88,10 +88,15 @@ fig, axes = plt.subplots(2, 2, figsize=(12, 10))
 axes = axes.ravel()
 
 for i, (name, model) in enumerate(models.items()):
-    if name in ["MLP", "Gaussian Process"]:
-        model.fit(X_train_scaled, y_train_scaled)  # Train on normalized data
-        y_pred_scaled = model.predict(X_test_scaled)  # Predict in normalized space
-        y_pred = y_scaler.inverse_transform(y_pred_scaled.reshape(-1, 1)).flatten()  # Convert back
+    if name == "MLP":
+        model.fit(X_train_scaled, y_train_scaled)
+        y_pred_scaled = model.predict(X_test_scaled)
+        y_pred = y_scaler.inverse_transform(y_pred_scaled.reshape(-1, 1)).flatten()
+    
+    elif name == "Gaussian Process":
+        model.fit(X_train_scaled, y_train)  # Use unscaled y
+        y_pred = model.predict(X_test_scaled)  # Predict unscaled directly
+
     else:
         model.fit(X_train, y_train)  # Train normally
         y_pred = model.predict(X_test)  # Predict normally
