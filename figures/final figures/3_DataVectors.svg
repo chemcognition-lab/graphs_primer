@@ -6,7 +6,7 @@
    version="1.1"
    id="svg219"
    sodipodi:docname="3_DataVectors.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
    inkscape:export-filename="pngs\3_DataVectors.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -28,13 +28,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="0.25"
-     inkscape:cx="46"
-     inkscape:cy="930"
-     inkscape:window-width="1920"
-     inkscape:window-height="1129"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="393.15137"
+     inkscape:cy="206.12163"
+     inkscape:window-width="1854"
+     inkscape:window-height="1009"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg219" />
   <metadata
@@ -2648,9 +2648,9 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect48);fill:none;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="121.67382"
            y="216.67262"
-           id="tspan4"><tspan
+           id="tspan25"><tspan
              style="font-weight:normal;font-size:14.6667px;-inkscape-font-specification:'Arial, Normal';fill:#000000"
-             id="tspan3">C</tspan></tspan></text>
+             id="tspan2">C</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.74999999,0,0,0.74999999,-0.53069104,22.832477)"
@@ -2658,19 +2658,19 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect48-9);fill:none;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="121.26561"
            y="216.67262"
-           id="tspan6"><tspan
+           id="tspan27"><tspan
              style="font-weight:normal;font-size:14.6667px;-inkscape-font-specification:'Arial, Normal';fill:#000000"
-             id="tspan5">O</tspan></tspan></text>
+             id="tspan26">O</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.74999999,0,0,0.74999999,-0.7670197,53.119751)"
          id="text12-4-2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect48-9-8);fill:none;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:round"><tspan
-           x="122.54752"
+           x="122.53305"
            y="216.67262"
-           id="tspan8"><tspan
+           id="tspan29"><tspan
              style="font-weight:normal;font-size:14.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:#000000"
-             id="tspan7">P</tspan></tspan></text>
+             id="tspan28">P</tspan></tspan></text>
       <g
          id="g48">
         <g
@@ -2945,9 +2945,9 @@
        style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';white-space:pre;shape-inside:url(#rect239);fill:#000005;fill-opacity:1;stroke-width:10.788;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:43.152, 10.788"><tspan
          x="161.64844"
          y="232.8169"
-         id="tspan10"><tspan
+         id="tspan31"><tspan
            style="font-weight:bold;font-size:25.6171px;font-family:Arial;-inkscape-font-specification:'Arial, Bold'"
-           id="tspan9">a) Data vector representations</tspan></tspan></text>
+           id="tspan30">a) Data vector representations</tspan></tspan></text>
   </g>
   <text
      xml:space="preserve"
@@ -2956,7 +2956,7 @@
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.6171px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect239-7);fill:#000005;fill-opacity:1;stroke-width:10.788;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:43.152, 10.788"><tspan
        x="161.64844"
        y="232.8169"
-       id="tspan11">b) Different data tensor ranks</tspan></text>
+       id="tspan32">b) Different data tensor ranks</tspan></text>
   <g
      id="patch_1-1"
      style="stroke-linecap:butt;stroke-linejoin:round"
@@ -3548,11 +3548,11 @@
      style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';text-align:center;white-space:pre;shape-inside:url(#rect239-6-4);fill:#000005;fill-opacity:1;stroke-width:10.788;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:43.152, 10.788"
      x="37.605293"
      y="0"><tspan
-       x="276.65153"
+       x="234.2502"
        y="230.89406"
-       id="tspan13"><tspan
+       id="tspan34"><tspan
          style="font-size:23.4824px;font-family:Arial;-inkscape-font-specification:'Arial, Normal'"
-         id="tspan12">0-rank</tspan></tspan></text>
+         id="tspan33">0-rank (scalar)</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.46843653,0,0,0.46843653,297.9486,6.3311748)"
@@ -3560,11 +3560,11 @@
      style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';text-align:center;white-space:pre;shape-inside:url(#rect239-6-4-0);fill:#000005;fill-opacity:1;stroke-width:10.788;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:43.152, 10.788"
      x="37.605293"
      y="0"><tspan
-       x="276.65153"
+       x="233.59664"
        y="230.89406"
-       id="tspan15"><tspan
+       id="tspan36"><tspan
          style="font-size:23.4824px;font-family:Arial;-inkscape-font-specification:'Arial, Normal'"
-         id="tspan14">1-rank</tspan></tspan></text>
+         id="tspan35">1-rank (vector)</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.46843653,0,0,0.46843653,184.65365,73.500784)"
@@ -3572,23 +3572,29 @@
      style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';text-align:center;white-space:pre;shape-inside:url(#rect239-6-4-0-4);fill:#000005;fill-opacity:1;stroke-width:10.788;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:43.152, 10.788"
      x="37.605293"
      y="0"><tspan
-       x="276.65153"
+       x="233.6081"
        y="230.89406"
-       id="tspan17"><tspan
+       id="tspan38"><tspan
          style="font-size:23.4824px;font-family:Arial;-inkscape-font-specification:'Arial, Normal'"
-         id="tspan16">2-rank</tspan></tspan></text>
+         id="tspan37">2-rank (matrix)</tspan></tspan></text>
   <text
      xml:space="preserve"
-     transform="matrix(0.46843653,0,0,0.46843653,298.09362,74.872107)"
+     transform="matrix(0.46843653,0,0,0.46843653,298.09362,59.497107)"
      id="text239-5-0-4-1-5"
      style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';text-align:center;white-space:pre;shape-inside:url(#rect239-6-4-0-4-9);fill:#000005;fill-opacity:1;stroke-width:10.788;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:43.152, 10.788"
      x="37.605293"
      y="0"><tspan
        x="276.65153"
        y="230.89406"
-       id="tspan20"><tspan
+       id="tspan40"><tspan
          style="font-size:23.4824px;font-family:Arial;-inkscape-font-specification:'Arial, Normal'"
-         id="tspan19">3-rank</tspan></tspan></text>
+         id="tspan39">3-rank
+</tspan></tspan><tspan
+       x="192.48524"
+       y="260.24706"
+       id="tspan42"><tspan
+         style="font-size:23.4824px;font-family:Arial;-inkscape-font-specification:'Arial, Normal'"
+         id="tspan41">(collection of matrices)</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0.46843653,0,0,0.46843653,50.085308,111.74474)"
@@ -3596,9 +3602,9 @@
      style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';white-space:pre;shape-inside:url(#rect239-6);fill:#000005;fill-opacity:1;stroke-width:10.788;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:43.152, 10.788"><tspan
        x="161.64844"
        y="232.8169"
-       id="tspan22"><tspan
+       id="tspan44"><tspan
          style="font-size:25.6171px;font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan21">Continuous data</tspan></tspan></text>
+         id="tspan43">Continuous data</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-size:12.4916px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';fill:#000000;stroke-width:1.35441;stroke-linecap:butt;stroke-linejoin:bevel"
@@ -3654,7 +3660,7 @@
      style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';white-space:pre;shape-inside:url(#rect49);fill:#000005;fill-opacity:1;stroke-width:10.788;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:43.152, 10.788"><tspan
        x="161.64844"
        y="232.8169"
-       id="tspan24"><tspan
+       id="tspan46"><tspan
          style="font-size:25.6171px;font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan23">Categorical data</tspan></tspan></text>
+         id="tspan45">Categorical data</tspan></tspan></text>
 </svg>
